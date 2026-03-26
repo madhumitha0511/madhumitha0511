@@ -1,179 +1,147 @@
+<!--- MADHUMITHA VENKATESAN — SKELETON OF A CREATOR --->
 <div align="center">
-
-<!-- DESK BACKGROUND WITH SUBTLE TEXTURE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A261,40:E76F51,70:2A9D8F,100:264653&height=220&section=header&text=Madhumitha%20Venkatesan&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20+%20AI/ML%20Engineer&descSize=20&descAlignY=58&descColor=ffffff&animation=bounce"/>
-
-<!-- DESK STATUS STICKY NOTE -->
-<div style="background: linear-gradient(135deg, #FFF9B1 0%, #FFEB80 100%); border: 3px solid #F4A261; border-radius: 12px; padding: 20px; max-width: 400px; margin: 20px auto; box-shadow: 0 8px 20px rgba(244,162,97,0.4), inset 0 2px 4px rgba(255,255,255,0.8); font-family: 'Comic Sans MS', cursive; font-size: 16px;">
-<strong>📌 STATUS</strong><br/>
-🖥️ Full Stack + AI Engineer<br/>
-📍 Chennai 🇮🇳<br/>
-🎓 Sathyabama CSE(AI) '27<br/>
-💼 Open: SDE/AI Internships<br/>
-📧 madhumitha0511@gmail.com
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Madhumitha%20Venkatesan&fontSize=50&fontAlignY=35&desc=Full‑Stack%20%7C%20AI/ML%20%7C%20Skeuomorphic%20Storyteller&descAlignY=55&animation=fadeIn" width="100%" />
 </div>
 
+<!-- SKEWED POLAROID HEADER — UNIQUE, TACTILE, MEMORABLE -->
+<div align="center">
+  <div style="display: inline-block; background: #f9f1e0; padding: 20px 25px 25px 25px; border-radius: 8px 8px 25px 8px; box-shadow: 8px 8px 0px #c0a36b, 15px 15px 20px rgba(0,0,0,0.2); transform: rotate(-1deg); margin-bottom: 35px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=3000&pause=500&color=8B5A2B&center=true&vCenter=true&width=700&lines=✦+Full‑Stack+Alchemist+✦;✦+AI/ML+Explorer+✦;✦+Client‑Shipped+Reality+✦" alt="Typing SVG" />
+    <div style="background: #fff3e0; padding: 10px 18px; border-radius: 8px; border: 1px solid #e6d5b8; box-shadow: inset 0px 1px 2px #fff8f0, 0px 2px 4px rgba(0,0,0,0.1); font-family: 'Courier New', monospace; margin-top: 15px;">
+      <code>📁 portfolio → madhumitha-venkatesan.onrender.com</code>
+    </div>
+    <div style="margin-top: 12px; font-size: 14px; color: #7a5a3a;">⚡ “I turn lines of code into tools that heal, rank, and empower.”</div>
+  </div>
 </div>
 
-<br/>
-
-<!-- PHYSICAL DESK WITH VERTICAL PROJECT CARDS -->
-<div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
-
-<!-- PROJECT 1: TABMIND - App Store Style Card -->
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border-radius: 20px; padding: 25px; margin: 20px 0; box-shadow: 0 15px 35px rgba(102,126,234,0.4), inset 0 2px 8px rgba(255,255,255,0.3); border: 2px solid rgba(255,255,255,0.2); display: flex; align-items: center; min-height: 200px;">
-<div style="width: 80px; height: 80px; background: rgba(255,255,255,0.2); border-radius: 16px; margin-right: 20px; display: flex; align-items: center; justify-content: center; font-size: 32px;">🧠</div>
-<div>
-<h3 style="margin: 0 0 10px 0; font-size: 24px;">TabMind</h3>
-<p style="margin: 0 0 15px 0; opacity: 0.9;">AI Chrome Extension</p>
-<ul style="margin: 0; padding-left: 20px; font-size: 14px; opacity: 0.95;">
-<li>Groq + Llama 3.3</li>
-<li>Auto-groups 30+ tabs</li>
-<li>&lt;5s processing</li>
-</ul>
-<div style="margin-top: 15px;">
-<a href="#" style="background: rgba(255,255,255,0.2); color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; margin-right: 10px; border: 1px solid rgba(255,255,255,0.3);">🚀 Live</a>
-<a href="#" style="background: rgba(255,255,255,0.2); color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.3);">📱 Install</a>
-</div>
-</div>
-</div>
-
-<!-- PROJECT 2: WEARX -->
-<div style="background: linear-gradient(135deg, #F093FB 0%, #F5576C 100%); color: white; border-radius: 20px; padding: 25px; margin: 20px 0; box-shadow: 0 15px 35px rgba(240,147,251,0.4), inset 0 2px 8px rgba(255,255,255,0.3); border: 2px solid rgba(255,255,255,0.2); display: flex; align-items: center; min-height: 200px;">
-<div style="width: 80px; height: 80px; background: rgba(255,255,255,0.2); border-radius: 16px; margin-right: 20px; display: flex; align-items: center; justify-content: center; font-size: 32px;">🩺</div>
-<div>
-<h3 style="margin: 0 0 10px 0; font-size: 24px;">WearX</h3>
-<p style="margin: 0 0 15px 0; opacity: 0.9;">AI Health Wearable</p>
-<ul style="margin: 0; padding-left: 20px; font-size: 14px; opacity: 0.95;">
-<li>ESP32 + Flutter</li>
-<li>Stroke/Fall Detection</li>
-<li>Sub-2s SOS Alerts</li>
-</ul>
-<div style="margin-top: 15px;">
-<a href="#" style="background: rgba(255,255,255,0.2); color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; margin-right: 10px; border: 1px solid rgba(255,255,255,0.3);">📹 Demo</a>
-<a href="#" style="background: rgba(255,255,255,0.2); color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.3);">💾 GitHub</a>
-</div>
-</div>
-</div>
-
-<!-- PROJECT 3: ENERGY DASH -->
-<div style="background: linear-gradient(135deg, #4ECDC4 0%, #44A08D 100%); color: white; border-radius: 20px; padding: 25px; margin: 20px 0; box-shadow: 0 15px 35px rgba(78,205,196,0.4), inset 0 2px 8px rgba(255,255,255,0.3); border: 2px solid rgba(255,255,255,0.2); display: flex; align-items: center; min-height: 200px;">
-<div style="width: 80px; height: 80px; background: rgba(255,255,255,0.2); border-radius: 16px; margin-right: 20px; display: flex; align-items: center; justify-content: center; font-size: 32px;">📊</div>
-<div>
-<h3 style="margin: 0 0 10px 0; font-size: 24px;">EnergyDash</h3>
-<p style="margin: 0 0 15px 0; opacity: 0.9;">IITM Research Park</p>
-<ul style="margin: 0; padding-left: 20px; font-size: 14px; opacity: 0.95;">
-<li>ML Anomaly Detection</li>
-<li>3+ Building Systems</li>
-<li>40% Accuracy ↑</li>
-</ul>
-<div style="margin-top: 15px;">
-<a href="#" style="background: rgba(255,255,255,0.2); color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; margin-right: 10px; border: 1px solid rgba(255,255,255,0.3);">📈 Live</a>
-<a href="#" style="background: rgba(255,255,255,0.2); color: white; padding: 8px 16px; border-radius: 20px; text-decoration: none; border: 1px solid rgba(255,255,255,0.3);">🔗 Details</a>
-</div>
-</div>
-</div>
-
-<!-- MORE PROJECTS STICKY NOTE STYLE -->
-<div style="background: linear-gradient(135deg, #FFEAA7 0%, #FDCB6E 100%); border: 3px solid #FD79A8; border-radius: 16px; padding: 25px; margin: 30px 0; box-shadow: 0 12px 25px rgba(253,121,168,0.3); text-align: center;">
-<h3 style="color: #2D3436; margin-top: 0;">📌 More Projects</h3>
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 15px;">
-<span style="background: white; padding: 12px 20px; border-radius: 25px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); font-weight: bold; color: #636e72;">🏥 MedSyn<br/>Flask Platform</span>
-<span style="background: white; padding: 12px 20px; border-radius: 25px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); font-weight: bold; color: #636e72;">⚡ Automios<br/>WordPress 15d</span>
-<span style="background: white; padding: 12px 20px; border-radius: 25px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); font-weight: bold; color: #636e72;">🔬 CodyGrow<br/>ML Automation</span>
-</div>
-</div>
-
-</div>
-
-<!-- SKILLS INDEX CARDS (Physical File Cards) -->
-<div align="center" style="max-width: 1000px; margin: 40px auto;">
-<h2 style="color: #2D3436; border-bottom: 4px solid #F4A261; padding-bottom: 10px; display: inline-block;">📂 Skills Index</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 30px;">
-
-<div style="background: linear-gradient(135deg, #A8E6CF 0%, #88D8A3 100%); border-radius: 16px; padding: 25px; box-shadow: 0 10px 25px rgba(168,230,207,0.4); border: 2px solid #88D8A3; transform: rotate(-1deg); margin: 10px;">
-<strong>Frontend</strong><br/>
-⚛️ React<br/>
-🦋 Flutter<br/>
-📱 JavaScript
-</div>
-
-<div style="background: linear-gradient(135deg, #FFAFBD 0%, #FFC3A0 100%); border-radius: 16px; padding: 25px; box-shadow: 0 10px 25px rgba(255,175,189,0.4); border: 2px solid #FFAFBD; transform: rotate(1deg); margin: 10px;">
-<strong>Backend</strong><br/>
-⚗️ Flask<br/>
-🔗 Node.js<br/>
-🐍 Python
-</div>
-
-<div style="background: linear-gradient(135deg, #D299C2 0%, #FEF9D7 100%); border-radius: 16px; padding: 25px; box-shadow: 0 10px 25px rgba(210,153,194,0.4); border: 2px solid #D299C2; transform: rotate(-0.5deg); margin: 10px;">
-<strong>AI/ML</strong><br/>
-🧠 Scikit-learn<br/>
-⚙️ Groq API<br/>
-📝 NLP
-</div>
-
-<div style="background: linear-gradient(135deg, #FAACA8 0%, #DDBDF1 100%); border-radius: 16px; padding: 25px; box-shadow: 0 10px 25px rgba(250,172,168,0.4); border: 2px solid #FAACA8; transform: rotate(0.5deg); margin: 10px;">
-<strong>Tools</strong><br/>
-☁️ AWS S3<br/>
-🔌 ESP32<br/>
-📊 Firebase
-</div>
-
-</div>
-</div>
-
-<!-- EXPERIENCE TIMELINE (Paper Timeline) -->
-<div align="center" style="max-width: 800px; margin: 50px auto;">
-<div style="background: linear-gradient(135deg, #FFF3CD 0%, #FFEAA7 100%); border: 3px dashed #F4A261; border-radius: 20px; padding: 30px; box-shadow: 0 15px 30px rgba(255,234,167,0.4);">
-<h2 style="color: #2D3436; margin-top: 0;">📜 Experience</h2>
-
-<div style="text-align: left; line-height: 1.8;">
-<strong>2026 • MarteX Software</strong><br/>
-*Software Developer* • React/Node/Flask • 5+ AI apps delivered
-
-<strong>2025 • Plugzmart (IITM)</strong><br/>
-*AI/ML Intern* • Energy dashboard • 40% accuracy improvement
-
-<strong>2025 • ZUUCE Solutions</strong><br/>
-*SEO Analyst* • 20% traffic ↑ • SEMrush/Ahrefs expert
-
-<strong>2024 • Relyce Infotech</strong><br/>
-*Frontend Intern* • React/Flutter • 15% engagement ↑
-</div>
-</div>
-</div>
-
-<!-- CONNECT DESK ORGANIZER -->
-<div align="center" style="background: linear-gradient(135deg, #E8F5E8 0%, #D4F4D4 100%); border: 4px solid #2A9D8F; border-radius: 24px; padding: 30px; margin: 40px 0; box-shadow: 0 20px 40px rgba(42,157,143,0.3); max-width: 700px;">
-<h2 style="color: #2D3436; margin-top: 0;">📞 Connect</h2>
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-<a href="https://madhumitha-venkatesan.onrender.com/" style="background: linear-gradient(135deg, #667eea, #764ba2); color: white; padding: 15px 25px; border-radius: 50px; text-decoration: none; box-shadow: 0 8px 20px rgba(102,126,234,0.4); font-weight: bold;">🌐 Portfolio</a>
-<a href="https://linkedin.com/in/madhumithavenkatesan" style="background: linear-gradient(135deg, #0077B5, #005A87); color: white; padding: 15px 25px; border-radius: 50px; text-decoration: none; box-shadow: 0 8px 20px rgba(0,119,181,0.4); font-weight: bold;">💼 LinkedIn</a>
-<a href="mailto:madhumitha0511@gmail.com" style="background: linear-gradient(135deg, #EA4335, #C23321); color: white; padding: 15px 25px; border-radius: 50px; text-decoration: none; box-shadow: 0 8px 20px rgba(234,67,53,0.4); font-weight: bold;">📧 Email</a>
-<a href="https://github.com/madhumitha0511" style="background: linear-gradient(135deg, #181717, #333333); color: white; padding: 15px 25px; border-radius: 50px; text-decoration: none; box-shadow: 0 8px 20px rgba(24,23,23,0.4); font-weight: bold;">💾 GitHub</a>
-</div>
-<p style="margin-top: 25px; color: #636e72; font-size: 14px;">
-<strong>📌 Note:</strong> Open to SDE + AI/ML Internships • Chennai Based
+<!-- 🌐 SOCIALS — VINTAGE WOODEN BUTTONS -->
+<h3 align="center">📜 ｜  CONNECT WITH ME  ｜ 📜</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/madhumithavenkatesan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2c3e50&color=0A66C2&logoColor=white&style=plastic&label=linkedin&logoWidth=20" />
+  </a>
+  <a href="https://github.com/madhumitha0511" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2c3e50&color=2c3e50&style=plastic" />
+  </a>
+  <a href="https://x.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=2c3e50&color=1DA1F2&style=plastic" />
+  </a>
+  <a href="mailto:madhumitha.venkatesan@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2c3e50&color=EA4335&style=plastic" />
+  </a>
 </p>
+
+---
+
+## 🪵 ｜ SKILLS — etched in craft ｜ 🪵
+
+<table align="center" style="border-collapse: separate; border-spacing: 12px; background: #FEF5E7; border-radius: 32px; padding: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.2), inset 0 1px 2px rgba(255,255,240,0.8);">
+  <tr>
+    <td align="center" style="background: #F7E9D7; border-radius: 24px; padding: 12px 20px; box-shadow: inset 0 1px 2px #fff, 0 3px 6px rgba(0,0,0,0.1);">
+      <h3>🧩 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,c,html,css" width="280" />
+    </td>
+    <td align="center" style="background: #F7E9D7; border-radius: 24px; padding: 12px 20px; box-shadow: inset 0 1px 2px #fff, 0 3px 6px rgba(0,0,0,0.1);">
+      <h3>⚙️ Frameworks & Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,flask,flutter,nextjs,tailwind" width="280" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="background: #F7E9D7; border-radius: 24px; padding: 12px 20px; box-shadow: inset 0 1px 2px #fff, 0 3px 6px rgba(0,0,0,0.1);">
+      <h3>🗄️ Databases & Cloud</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,aws,oracle" width="280" />
+    </td>
+    <td align="center" style="background: #F7E9D7; border-radius: 24px; padding: 12px 20px; box-shadow: inset 0 1px 2px #fff, 0 3px 6px rgba(0,0,0,0.1);">
+      <h3>🧰 Tools & AI/ML</h3>
+      <img src="https://skillicons.dev/icons?i=git,figma,vscode,sklearn,tensorflow" width="280" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📌 ｜ FEATURED WORK — POLAROID GALLERY ｜ 📌
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 25px;">
+
+    <!-- WEAR X — AI HEALTH WATCH -->
+    <div style="background: #fef7e8; padding: 12px 12px 20px 12px; border-radius: 6px 6px 20px 6px; width: 260px; box-shadow: 6px 6px 0px #c0a06b, 10px 12px 20px rgba(0,0,0,0.2); transform: rotate(0.5deg);">
+      <div style="background: #2c3e2f; height: 140px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #e9d6b0; font-family: monospace;">📟 WEAR X · AI WATCH</div>
+      <div style="padding: 10px 0 0 8px;">
+        <strong>⚕️ AI Wearable for Stroke & Parkinson’s</strong><br/>
+        ESP32 · Firebase · Flutter · EMG detection
+      </div>
+      <div style="font-size: 12px; margin-top: 8px;">🏷️ Real‑time fall detection + health monitoring</div>
+    </div>
+
+    <!-- AUTOMIOS — 15‑DAY WORDPRESS DELIVERY -->
+    <div style="background: #fef7e8; padding: 12px 12px 20px 12px; border-radius: 6px 6px 20px 6px; width: 260px; box-shadow: 6px 6px 0px #c0a06b, 10px 12px 20px rgba(0,0,0,0.2); transform: rotate(-0.3deg);">
+      <div style="background: #2c3e2f; height: 140px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #e9d6b0; font-family: monospace;">🌐 AUTOMIOS</div>
+      <div style="padding: 10px 0 0 8px;">
+        <strong>⚡ WordPress · REST API · Full‑cycle deployment</strong><br/>
+        From proposal → live in 15 days
+      </div>
+      <div style="font-size: 12px; margin-top: 8px;">🏷️ SEO + responsive architecture</div>
+    </div>
+
+    <!-- ENERGY DASHBOARD (PLUGSMART) -->
+    <div style="background: #fef7e8; padding: 12px 12px 20px 12px; border-radius: 6px 6px 20px 6px; width: 260px; box-shadow: 6px 6px 0px #c0a06b, 10px 12px 20px rgba(0,0,0,0.2); transform: rotate(0.2deg);">
+      <div style="background: #2c3e2f; height: 140px; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #e9d6b0; font-family: monospace;">📊 ENERGY DASHBOARD</div>
+      <div style="padding: 10px 0 0 8px;">
+        <strong>🏭 Real‑time building analytics · Anomaly detection</strong><br/>
+        React · Scikit‑learn · AWS S3 · TimescaleDB
+      </div>
+      <div style="font-size: 12px; margin-top: 8px;">🏷️ 40% improvement in energy reporting accuracy</div>
+    </div>
+  </div>
 </div>
 
-<!-- GitHub Stats on Desk Paper -->
-<div align="center" style="margin: 40px 0;">
-<div style="background: linear-gradient(135deg, #FFF3CD 0%, #FFEAA7 100%); border: 3px solid #F4A261; border-radius: 20px; padding: 25px; box-shadow: 0 15px 30px rgba(255,234,167,0.4); max-width: 900px; margin: 0 auto 20px;">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&theme=radical&title_color=2D3436&text_color=636e72&icon_color=F4A261&border_color=F4A261&border_radius=16"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&theme=radical&title_color=2D3436&text_color=636e72&border_color=F4A261&border_radius=16"/>
-</div>
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhumitha0511&theme=radical&background=F8F9FA&ring=F4A261&fire=E76F51&currStreakLabel=2D3436&sideLabels=636e72&dates=2D3436"/>
+<!-- MICRO INTERACTIONS: additional project note -->
+<details align="center" style="margin-top: 35px;">
+  <summary style="cursor: pointer; background: #e9dbc9; padding: 6px 20px; border-radius: 40px; display: inline-block; font-weight: bold; box-shadow: inset 0 1px 2px #fff, 0 2px 4px rgba(0,0,0,0.1);">✨ view more + client work ✨</summary>
+  <div align="center" style="margin-top: 15px;">
+    <p><strong>MedSyn</strong> — medical portfolio platform (React + Flask + Firebase)</p>
+    <p><strong>CodyGrow</strong> — gamified learning companion (Flutter + Node.js)</p>
+    <p><strong>SEO Playbook</strong> — boosted organic traffic 20% for 5+ client sites</p>
+  </div>
+</details>
+
+---
+
+## 🏆 ｜ STATS — ink on parchment ｜ 🏆
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&theme=gruvbox&bg_color=FFF3E0&title_color=8B5A2B&icon_color=B86F2C&text_color=5A3E1B&border_radius=16&border_color=E3CDA4&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhumitha0511&theme=gruvbox&background=FFF3E0&stroke=E3CDA4&ring=B86F2C&fire=B86F2C&currStreakLabel=8B5A2B&sideLabels=8B5A2B&dates=5A3E1B" width="48%" />
 </div>
 
-<!-- FOOTER STICKY NOTE -->
-<div style="background: linear-gradient(135deg, #FFEAA7 0%, #FDCB6E 100%); border: 3px solid #FD79A8; border-radius: 16px; padding: 20px; margin: 40px auto; max-width: 500px; box-shadow: 0 10px 25px rgba(253,121,168,0.3); text-align: center;">
-<p style="margin: 0; color: #2D3436; font-family: 'Comic Sans MS', cursive; font-size: 18px;">
-<strong>📌 Building things that actually work 🚀</strong>
-</p>
-<p style="margin: 10px 0 0 0; color: #636e72; font-size: 14px;">
-<img src="https://komarev.com/ghpvc/?username=madhumitha0511&label=Desk%20Visitors&color=F4A261&style=flat-square"/>
-</p>
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&theme=github-light&bg_color=FEF5E7&color=8B5A2B&line=B86F2C&point=4A2C0C&area=true&hide_border=true" width="90%" />
 </div>
 
+---
+
+## 🧾 ｜ CREDENTIALS — sealed & certified ｜ 🧾
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 25px 0;">
+  <div style="background: #FCF7EF; border-left: 6px solid #C7A56B; padding: 8px 20px; border-radius: 12px; box-shadow: 2px 2px 6px rgba(0,0,0,0.05);">🏅 Oracle Cloud AI Foundations (Mar 2026)</div>
+  <div style="background: #FCF7EF; border-left: 6px solid #C7A56B; padding: 8px 20px; border-radius: 12px; box-shadow: 2px 2px 6px rgba(0,0,0,0.05);">🤖 Intro to ML — NPTEL IITKGP</div>
+  <div style="background: #FCF7EF; border-left: 6px solid #C7A56B; padding: 8px 20px; border-radius: 12px; box-shadow: 2px 2px 6px rgba(0,0,0,0.05);">📘 Generative AI — GUVI IITM</div>
+  <div style="background: #FCF7EF; border-left: 6px solid #C7A56B; padding: 8px 20px; border-radius: 12px; box-shadow: 2px 2px 6px rgba(0,0,0,0.05);">⚛️ React.js — Infosys Springboard</div>
+</div>
+
+---
+
+## ✨ ｜ THE TOOLBOX — additional layers ｜ ✨
+
+- **SDLC + Agile** — delivered 5+ production apps across internships
+- **Multirole craft** — Full‑Stack dev + AI/ML + SEO → rare blend
+- **Cultural leadership** — coordinated 2,000+ participants in university events
+- **IITM Research Park** — applied ML on sensor data + real‑time pipelines
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=footer&text=“I%20build%20things%20that%20live%20in%20the%20wild.”&fontSize=18&fontColor=5A3E1B&animation=twinkling" width="100%" />
 </div>
