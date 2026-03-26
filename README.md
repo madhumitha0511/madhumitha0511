@@ -365,13 +365,15 @@ Events Led
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&bg_color=0D0000&color=FFBE3D&line=FF8C42&point=FF6B35&area=true&hide_border=true&area_color=3D1200" width="95%" />
+<img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=radical&background=0d0d0d&stroke=f97316&ring=f97316&fire=ec4899&currStreakLabel=06b6d4&sideLabels=fef9c3&dates=8b949e&border=f97316&border_radius=12" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&bg_color=0d0d0d&color=f97316&line=ec4899&point=8b5cf6&area=true&border_color=f97316&radius=12" width="95%"/>
+
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,33:8b5cf6,66:ec4899,100:f97316&height=5" width="100%"/>
 
 <br/>
 
