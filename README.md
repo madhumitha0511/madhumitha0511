@@ -1,21 +1,64 @@
 <!-- ============================================================ -->
-<!--        MADHUMITHA VENKATESAN — OCEAN PULSE EDITION           -->
-<!--        Theme: Deep Navy · Electric Blue · Ice Cyan           -->
+<!--       MADHUMITHA VENKATESAN — OCEAN PULSE EDITION v2         -->
+<!--   HERO: GIF strip + SVG Glitch + Luminance + Stats Grid      -->
 <!-- ============================================================ -->
 
-<!-- ══════════════════ HERO BANNER ══════════════════ -->
+<!-- LAYER 1 — Animated wide tech GIF strip (top) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020B18,40:0A2342,100:1E3A5F&height=220&section=header&text=Madhumitha%20Venkatesan&fontSize=52&fontColor=00D4FF&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Builder&descSize=18&descFontColor=93C5FD&descAlignY=68" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
-<!-- ══════════════════ TYPING SVG ══════════════════ -->
+<!-- LAYER 2 — SVG GLITCH BANNER (name in cyberpunk glitch animation) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%40+IITM+Research+Park+%E2%9C%94;Full-Stack+Developer+%40+MarteX+Software;React+%E2%80%A2+Flutter+%E2%80%A2+Python+%E2%80%A2+Node.js;4+Internships+%C2%B7+5+Production+Apps+%F0%9F%9A%80;Open+to+Internships+%26+Freelance+%F0%9F%92%BC" alt="Typing" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Madhumitha%20Venkatesan%20%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB&width=900&height=200" width="100%" />
+</div>
+
+<!-- LAYER 3 — SVG LUMINANCE BANNER (roles in bright neon glow) -->
+<div align="center">
+  <img src="https://svg-banners.vercel.app/api?type=luminance&text1=%E2%9A%A1%20AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20IoT%20Builder%20%7C%20SIH%20Top%2025&width=900&height=90" width="100%" />
+</div>
+
+<!-- LAYER 4 — Animated wide tech GIF strip (bottom) -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
 <br/>
 
-<!-- ══════════════════ ACHIEVEMENT PILLS ══════════════════ -->
+<!-- LAYER 5 — TYPING SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=50&lines=AI%2FML+Engineer+%40+IITM+Research+Park+%E2%9C%94;Full-Stack+Developer+%40+MarteX+Software;React+%E2%80%A2+Flutter+%E2%80%A2+Python+%E2%80%A2+Node.js+%E2%80%A2+Flask;4+Internships+%C2%B7+5+Live+Production+Apps+%F0%9F%9A%80;Open+to+Internships+%26+Freelance+%F0%9F%92%BC" alt="Typing" />
+</div>
+
+<br/>
+
+<!-- LAYER 6 — HERO STATS GRID -->
+<div align="center">
+<table border="0">
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%E2%9A%A1%205%2B%20Production%20Apps-020B18?style=for-the-badge&labelColor=020B18" /><br/>
+<b><font color="#00D4FF">Shipped & Live</font></b>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%F0%9F%8E%AF%204%20Real%20Internships-020B18?style=for-the-badge&labelColor=020B18" /><br/>
+<b><font color="#00D4FF">AI · Web · SEO</font></b>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%F0%9F%8F%86%20Top%2025%20SIH%202024-020B18?style=for-the-badge&labelColor=020B18" /><br/>
+<b><font color="#00D4FF">Gov. of India</font></b>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/-%F0%9F%8C%8D%202000%2B%20Events-020B18?style=for-the-badge&labelColor=020B18" /><br/>
+<b><font color="#00D4FF">Real Leadership</font></b>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- LAYER 7 — ACHIEVEMENT PILLS -->
 <div align="center">
   <img src="https://img.shields.io/badge/4%2B_Internships-0077FF?style=flat-square&logoColor=white&labelColor=003380" />
   &nbsp;
@@ -30,7 +73,7 @@
 
 <br/>
 
-<!-- ══════════════════ SOCIAL LINKS ══════════════════ -->
+<!-- LAYER 8 — SOCIAL LINKS -->
 <div align="center">
   <a href="https://linkedin.com/in/madhumithavenkatesan">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" />
@@ -51,7 +94,6 @@
 
 <br/>
 
-<!-- ══════════════════ ANIMATED GLOW DIVIDER ══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%" />
 
 <br/>
@@ -65,14 +107,6 @@
 <br/>
 
 > 🖊️ *"I build AI-powered products that actually ship — not just demos."*
-
-<div align="center">
-
-| ⚡ 5+ Production Apps | 🎯 40% Efficiency Gains | 🌍 2000+ Event Participants |
-|:---:|:---:|:---:|
-| Shipped & live | Measured impact | Real leadership |
-
-</div>
 
 <br/>
 
@@ -390,7 +424,7 @@ Secure Flask app for event content
 
 <br/>
 
-<!-- ══════════════════ FOOTER ══════════════════ -->
+<!-- FOOTER — VENOM type (unique symbiote drip shape!) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:020B18,50:0A2342,100:1E3A5F&height=150&section=footer&text=Keep%20Building%20%F0%9F%8C%8A&fontSize=28&fontColor=00D4FF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:020B18,100:0A2342&stroke=00D4FF&fontColor=00D4FF&fontSize=28&text=Keep%20Building%20%F0%9F%8C%8A&animation=twinkling&strokeWidth=2" width="100%" />
 </div>
