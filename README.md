@@ -1,31 +1,31 @@
 <!-- ============================================================ -->
-<!--        MADHUMITHA VENKATESAN — EMBER FORGE EDITION           -->
-<!--        Theme: Dark Lava · Amber Neon · Warm Fire             -->
+<!--        MADHUMITHA VENKATESAN — OCEAN PULSE EDITION           -->
+<!--        Theme: Deep Navy · Electric Blue · Ice Cyan           -->
 <!-- ============================================================ -->
 
 <!-- ══════════════════ HERO BANNER ══════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D0000,40:3D1200,100:7A3C00&height=220&section=header&text=Madhumitha%20Venkatesan&fontSize=52&fontColor=FFCF4B&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Builder&descSize=18&descFontColor=FFA94D&descAlignY=68" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:020B18,40:0A2342,100:1E3A5F&height=220&section=header&text=Madhumitha%20Venkatesan&fontSize=52&fontColor=00D4FF&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Builder&descSize=18&descFontColor=93C5FD&descAlignY=68" width="100%" />
 </div>
 
 <!-- ══════════════════ TYPING SVG ══════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1000&color=FF8C42&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%40+IITM+Research+Park+%E2%9C%94;Full-Stack+Developer+%40+MarteX+Software;React+%E2%80%A2+Flutter+%E2%80%A2+Python+%E2%80%A2+Node.js;4+Internships+%C2%B7+5+Production+Apps+%F0%9F%9A%80;Open+to+Internships+%26+Freelance+%F0%9F%92%BC" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%40+IITM+Research+Park+%E2%9C%94;Full-Stack+Developer+%40+MarteX+Software;React+%E2%80%A2+Flutter+%E2%80%A2+Python+%E2%80%A2+Node.js;4+Internships+%C2%B7+5+Production+Apps+%F0%9F%9A%80;Open+to+Internships+%26+Freelance+%F0%9F%92%BC" alt="Typing" />
 </div>
 
 <br/>
 
 <!-- ══════════════════ ACHIEVEMENT PILLS ══════════════════ -->
 <div align="center">
-  <img src="https://img.shields.io/badge/4%2B_Internships-FF6B35?style=flat-square&logoColor=white&labelColor=8B2500" />
+  <img src="https://img.shields.io/badge/4%2B_Internships-0077FF?style=flat-square&logoColor=white&labelColor=003380" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Top_25-Smart_India_Hackathon_2024-C0392B?style=flat-square&logoColor=white&labelColor=6B0000" />
+  <img src="https://img.shields.io/badge/Top_25-Smart_India_Hackathon_2024-1565C0?style=flat-square&logoColor=white&labelColor=0D3B6B" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Oracle_Cloud-AI_Foundations_2026-F97316?style=flat-square&logo=oracle&logoColor=white&labelColor=7A3200" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-AI_Foundations_2026-1E90FF?style=flat-square&logo=oracle&logoColor=white&labelColor=003380" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open_To_Work-FFBE3D?style=flat-square&logoColor=black&labelColor=7A5500" />
+  <img src="https://img.shields.io/badge/Open_To_Work-00D4FF?style=flat-square&logoColor=black&labelColor=006688" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=madhumitha0511&style=flat-square&color=FF8C42&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=madhumitha0511&style=flat-square&color=0077FF&label=Profile+Views" />
 </div>
 
 <br/>
@@ -41,7 +41,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://madhumitha-venkatesan.onrender.com/">
-    <img src="https://img.shields.io/badge/-Portfolio-FF6B35?style=flat&logo=firefox-browser&logoColor=white" height="28" />
+    <img src="https://img.shields.io/badge/-Portfolio-0077FF?style=flat&logo=firefox-browser&logoColor=white" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:madhumitha0511@gmail.com">
@@ -56,7 +56,7 @@
 
 <br/>
 
-## 🔥 About Me
+## 🌊 About Me
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" />
@@ -87,7 +87,7 @@
 <br/>
 
 <details>
-<summary><b>🟠 MarteX Software Enterprises — Software Developer</b> &nbsp; <code>Oct 2025 – Present</code> &nbsp; 📍 Chennai</summary>
+<summary><b>🔵 MarteX Software Enterprises — Software Developer</b> &nbsp; <code>Oct 2025 – Present</code> &nbsp; 📍 Chennai</summary>
 
 <br/>
 
@@ -105,7 +105,7 @@
 ---
 
 <details>
-<summary><b>🔬 Plugzmart — AI/ML Engineer Intern @ IITM Research Park</b> &nbsp; <code>Jul – Oct 2025</code> &nbsp; 📍 Chennai</summary>
+<summary><b>🔷 Plugzmart — AI/ML Engineer Intern @ IITM Research Park</b> &nbsp; <code>Jul – Oct 2025</code> &nbsp; 📍 Chennai</summary>
 
 <br/>
 
@@ -122,7 +122,7 @@
 ---
 
 <details>
-<summary><b>📈 ZUUCE Solutions — SEO Analyst</b> &nbsp; <code>Jan – Jun 2025</code> &nbsp; 📍 Siruseri, Chennai</summary>
+<summary><b>🔹 ZUUCE Solutions — SEO Analyst</b> &nbsp; <code>Jan – Jun 2025</code> &nbsp; 📍 Siruseri, Chennai</summary>
 
 <br/>
 
@@ -139,7 +139,7 @@
 ---
 
 <details>
-<summary><b>🎨 Relyce Infotech — Frontend Developer Intern</b> &nbsp; <code>Oct 2024 – Jan 2025</code> &nbsp; 📍 Sholinganallur, Chennai</summary>
+<summary><b>💠 Relyce Infotech — Frontend Developer Intern</b> &nbsp; <code>Oct 2024 – Jan 2025</code> &nbsp; 📍 Sholinganallur, Chennai</summary>
 
 <br/>
 
@@ -282,10 +282,10 @@ Secure Flask app for event content
 
 **AI / ML**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF8C42?style=for-the-badge&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative_AI-FFBE3D?style=for-the-badge&logoColor=black)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-C0392B?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-E67E22?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0077FF?style=for-the-badge&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-00D4FF?style=for-the-badge&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-1565C0?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-1E90FF?style=for-the-badge&logoColor=white)
 
 **IoT**
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -301,27 +301,27 @@ Secure Flask app for event content
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhumitha0511&theme=monokai" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhumitha0511&theme=nord_dark" width="95%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhumitha0511&theme=monokai" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhumitha0511&theme=nord_dark" width="30%" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhumitha0511&theme=monokai" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhumitha0511&theme=nord_dark" width="30%" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhumitha0511&theme=monokai" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhumitha0511&theme=nord_dark" width="30%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=monokai&hide_border=true&background=0D0000&stroke=FF8C42&ring=FFBE3D&fire=FF6B35&currStreakLabel=FFBE3D&sideLabels=FFA94D&dates=FF8C42&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=nord&hide_border=true&background=020B18&stroke=0077FF&ring=00D4FF&fire=1E90FF&currStreakLabel=00D4FF&sideLabels=93C5FD&dates=7EC8E3&border_radius=10" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&bg_color=0D0000&color=FFBE3D&line=FF8C42&point=FF6B35&area=true&hide_border=true&area_color=3D1200" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&bg_color=020B18&color=00D4FF&line=0077FF&point=93C5FD&area=true&hide_border=true&area_color=0A2342" width="95%" />
 </div>
 
 <br/>
@@ -334,15 +334,15 @@ Secure Flask app for event content
 
 <div align="center">
 
-![Oracle Cloud](https://img.shields.io/badge/🔶_Oracle_Cloud_AI_Foundations_Associate-Oracle_2026-F97316?style=flat-square)
-![NPTEL ML](https://img.shields.io/badge/🤖_Intro_to_ML-IIT_Kharagpur_NPTEL_2025-FF8C42?style=flat-square)
-![Cisco AI](https://img.shields.io/badge/🧠_Modern_AI-Cisco_Networking_Academy_May_2025-FFBE3D?style=flat-square)
-![NLP](https://img.shields.io/badge/💬_NLP_Fundamentals-Infosys_Springboard_Apr_2025-E67E22?style=flat-square)
-![Data Science](https://img.shields.io/badge/📊_Intro_to_Data_Science-Cisco_May_2025-FF6B35?style=flat-square)
-![GenAI](https://img.shields.io/badge/✨_Generative_AI-GUVI_IIT_Madras_Oct_2024-C0392B?style=flat-square)
-![React](https://img.shields.io/badge/⚛️_React.js-Infosys_Springboard_Aug_2024-FF8C42?style=flat-square)
-![MathWorks](https://img.shields.io/badge/📐_ML_Onramp-MathWorks_Sep_2024-FFBE3D?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/🔐_Cybersecurity_&_Ethical_Hacking-Coincent.ai_2024-E67E22?style=flat-square)
+![Oracle Cloud](https://img.shields.io/badge/🔶_Oracle_Cloud_AI_Foundations_Associate-Oracle_2026-1E90FF?style=flat-square)
+![NPTEL ML](https://img.shields.io/badge/🤖_Intro_to_ML-IIT_Kharagpur_NPTEL_2025-0077FF?style=flat-square)
+![Cisco AI](https://img.shields.io/badge/🧠_Modern_AI-Cisco_Networking_Academy_May_2025-00D4FF?style=flat-square&logoColor=black)
+![NLP](https://img.shields.io/badge/💬_NLP_Fundamentals-Infosys_Springboard_Apr_2025-1565C0?style=flat-square)
+![Data Science](https://img.shields.io/badge/📊_Intro_to_Data_Science-Cisco_May_2025-0077FF?style=flat-square)
+![GenAI](https://img.shields.io/badge/✨_Generative_AI-GUVI_IIT_Madras_Oct_2024-1E90FF?style=flat-square)
+![React](https://img.shields.io/badge/⚛️_React.js-Infosys_Springboard_Aug_2024-0077FF?style=flat-square)
+![MathWorks](https://img.shields.io/badge/📐_ML_Onramp-MathWorks_Sep_2024-00D4FF?style=flat-square&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/🔐_Cybersecurity_&_Ethical_Hacking-Coincent.ai_2024-1565C0?style=flat-square)
 
 <br/><br/>
 
@@ -379,7 +379,7 @@ Secure Flask app for event content
 </a>
 &nbsp;
 <a href="https://madhumitha-venkatesan.onrender.com/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF6B35?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-0077FF?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -390,7 +390,7 @@ Secure Flask app for event content
 
 <br/>
 
-<!-- ══════════════════ FOOTER (type=egg — new shape!) ══════════════════ -->
+<!-- ══════════════════ FOOTER ══════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:0D0000,50:3D1200,100:7A3C00&height=150&section=footer&text=Keep%20Building%20%F0%9F%94%A5&fontSize=28&fontColor=FFCF4B&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:020B18,50:0A2342,100:1E3A5F&height=150&section=footer&text=Keep%20Building%20%F0%9F%8C%8A&fontSize=28&fontColor=00D4FF&animation=fadeIn" width="100%" />
 </div>
