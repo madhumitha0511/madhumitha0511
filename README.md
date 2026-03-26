@@ -349,8 +349,10 @@ Events Led
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhumitha0511&theme=monokai" width="95%" />
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&theme=radical&bg_color=0d0d0d&title_color=f97316&text_color=fef9c3&border_color=f97316&border_radius=12&langs_count=8" height="180"/>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhumitha0511&theme=monokai" width="30%" />
+  &nbsp;
+</div>
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=radical&background=0d0d0d&stroke=f97316&ring=f97316&fire=ec4899&currStreakLabel=06b6d4&sideLabels=fef9c3&dates=8b949e&border=f97316&border_radius=12" />
