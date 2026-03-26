@@ -160,9 +160,7 @@ and student recommendations.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&theme=default&hide_border=true&title_color=ff9de2&icon_color=a6c1ee"/>
 
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=default&hide_border=true&ring=ff9de2&fire=fbc2eb"/>
 
@@ -184,7 +182,7 @@ and student recommendations.
 
 ✨ *“Code is not just logic — it’s impact.”* ✨
 
-<br/><br/>
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a6c1ee,50:fbc2eb,100:a6c1ee&height=120&section=footer"/>
 
