@@ -1,239 +1,283 @@
-<!--- MADHUMITHA VENKATESAN — GLASSMORPHIC EDITION --->
+<!-- ============================================================ -->
+<!--         MADHUMITHA VENKATESAN — MULTI-STYLE EDITION          -->
+<!--   Glassmorphism · Skeuomorphism · Neumorphism · Flat Design  -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<!-- GLASS HEADER WITH FLOATING EFFECT -->
-<div style="perspective: 1000px;">
-  <div style="background: rgba(255, 255, 255, 0.08); backdrop-filter: blur(12px); border-radius: 32px; padding: 8px; margin: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.2), inset 0 1px 0 rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.18); transform: rotateX(2deg);">
-    <div style="background: linear-gradient(135deg, rgba(255,255,255,0.05) 0%, rgba(255,255,255,0.02) 100%); border-radius: 28px; padding: 40px 60px;">
-      <h1 style="font-family: 'Poppins', sans-serif; font-size: 48px; background: linear-gradient(135deg, #fff 0%, #a8c0ff 50%, #3f2b96 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0;">Madhumitha S V</h1>
-      <p style="font-family: monospace; color: rgba(255,255,255,0.7); letter-spacing: 2px; margin-top: 12px;">✦ AI ENGINEER · FULL STACK DEVELOPER · BUILDER ✦</p>
-      <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px;">
-        <div style="background: rgba(255,255,255,0.1); border-radius: 20px; padding: 6px 16px; font-size: 14px; backdrop-filter: blur(4px);">📍 Chennai, India</div>
-        <div style="background: rgba(255,255,255,0.1); border-radius: 20px; padding: 6px 16px; font-size: 14px; backdrop-filter: blur(4px);">🎓 BE CSE (AI) @ SIST</div>
-        <div style="background: rgba(255,255,255,0.1); border-radius: 20px; padding: 6px 16px; font-size: 14px; backdrop-filter: blur(4px);">💼 4+ Internships</div>
-      </div>
-    </div>
-  </div>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f2b96,50:a8c0ff,100:8B5CF6&height=200&section=header&text=Madhumitha%20Venkatesan&fontSize=42&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Builder&descAlign=50&descAlignY=58&descFontColor=d4c5ff&descSize=16" width="100%" />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9B7BFF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%40+IITM+Research+Park;Building+Intelligent+Systems;Flutter+%2B+React+%2B+Python;Shipping+to+Production+%F0%9F%9A%80" />
+<br/>
 
-<!-- GLASS BADGES -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9B7BFF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%40+IITM+Research+Park+%E2%9C%94;Full-Stack+Developer+%40+MarteX+Software;React+%E2%80%A2+Flutter+%E2%80%A2+Python+%E2%80%A2+Node.js;4+Internships+·+5+Production+Apps+🚀;Open+to+Internships+%26+Freelance+💼" alt="Typing SVG" />
+
+<br/>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/4+_INTERNSHIPS-8B5CF6?style=flat-square&logo=code&logoColor=white&color=8B5CF6&labelColor=4C1D95" />
-  <img src="https://img.shields.io/badge/TOP_25-SIH_2024-EC4891?style=flat-square&logo=trophy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OPEN_TO_WORK-06B6D4?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/4+_Internships-8B5CF6?style=flat-square&logoColor=white&labelColor=4C1D95" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Top_25-Smart_India_Hackathon_2024-EC4891?style=flat-square&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Oracle_Cloud-AI_Foundations_2026-F97316?style=flat-square&logo=oracle&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open_To_Work-06B6D4?style=flat-square&logo=linkedin&logoColor=white" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=madhumitha0511&style=flat-square&color=8B5CF6&label=Profile+Views" />
 </p>
 
-<!-- SOCIAL LINKS WITH GLASS EFFECT -->
 <p align="center">
-  <a href="https://linkedin.com/in/madhumithavenkatesan"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/madhumitha0511"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:madhumitha0511@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=madhumitha0511&style=for-the-badge&color=8B5CF6&label=VIEWS" />
+  <a href="https://linkedin.com/in/madhumithavenkatesan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/madhumitha0511">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://madhumitha-venkatesan.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:madhumitha0511@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 🌟 ABOUT ME
+## 🌟 About Me
 
 <div align="center">
-  <table style="background: rgba(255,255,255,0.03); border-radius: 24px; border: 1px solid rgba(255,255,255,0.1); backdrop-filter: blur(10px);">
-    <tr>
-      <td width="60%" style="padding: 30px;">
-        <p style="font-size: 18px; line-height: 1.6;">✨ <strong>Building AI-powered products that actually ship</strong> — not just demos.</p>
-        <p>🔹 Full-stack developer with <strong>4 internships</strong> across AI/ML, web dev, and SEO<br/>
-        🔹 Currently at <strong>MarteX Software Enterprises</strong> building client-facing SaaS<br/>
-        🔹 Previously at <strong>IITM Research Park</strong> — real-time energy analytics<br/>
-        🔹 <strong>Top 25 @ Smart India Hackathon 2024</strong> — built a wearable for stroke detection<br/>
-        🔹 Technical Lead @ AWS Cloud Club & Core Member @ Microsoft Club</p>
-        <div style="display: flex; gap: 10px; margin-top: 20px;">
-          <div style="background: rgba(139,92,246,0.2); border-radius: 12px; padding: 8px 16px;">⚡ 5+ Production Apps</div>
-          <div style="background: rgba(139,92,246,0.2); border-radius: 12px; padding: 8px 16px;">🎯 40% Efficiency Gains</div>
-          <div style="background: rgba(139,92,246,0.2); border-radius: 12px; padding: 8px 16px;">🌍 2000+ Event Participants</div>
-        </div>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" />
-      </td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+<td width="58%">
+
+> 🖊️ *"I build AI-powered products that actually ship — not just demos."*
+
+🔹 Full-stack developer with **4 real internships** across AI/ML, Web Dev & SEO
+🔹 Currently at **MarteX Software Enterprises** — shipping client-facing SaaS
+🔹 Previously at **Plugzmart @ IITM Research Park** — real-time energy analytics
+🔹 **Top 25 @ Smart India Hackathon 2024** — AI wearable for stroke detection
+🔹 **Technical Lead** @ AWS Cloud Club · **Core Member** @ Microsoft Club
+🔹 Coordinated cultural events for **2,000+ participants** across 2 years
+
+<br/>
+
+| ⚡ 5+ Production Apps | 🎯 40% Efficiency Gains | 🌍 2000+ Event Participants |
+|:---:|:---:|:---:|
+| Shipped & live | Measured impact | Real leadership |
+
+</td>
+<td width="42%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260" />
+
+<br/>
+
+📍 Chennai, India &nbsp;|&nbsp; 🎓 B.E. CSE (AI) @ SIST
+🌐 **[madhumitha-venkatesan.onrender.com](https://madhumitha-venkatesan.onrender.com/)**
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 💼 EXPERIENCE — Interactive Timeline
+## 💼 Experience
+
+### 🟣 MarteX Software Enterprises — Software Developer
+**`Oct 2025 – Present`** &nbsp; 📍 Chennai, Tamil Nadu
+
+| 🔑 What I Built | 📈 Impact |
+|---|---|
+| 5 AI-driven full-stack web apps (React.js, Node.js, Flask, PHP, WordPress) | On-schedule delivery following Agile SDLC |
+| SaaS-style admin dashboards with real-time content management & multi-user roles | **30% reduction** in client-reported bugs |
+| WordPress site — proposal to live deployment independently | Delivered in **15 days** end-to-end |
+| Git/GitHub workflows, intelligent automation & data-driven dashboards | Cross-functional team collaboration |
+
+---
+
+### 🔬 Plugzmart — AI/ML Engineer Intern @ IITM Research Park
+**`Jul – Oct 2025`** &nbsp; 📍 Chennai, Tamil Nadu
+
+| 🔑 What I Built | 📈 Impact |
+|---|---|
+| Real-Time Energy Management Dashboard — anomaly detection across 3+ buildings | Eliminated manual monitoring effort |
+| 4 ML models with Scikit-learn + AWS S3 + TimescaleDB | Production-ready within 4-month window |
+| React.js interactive data visualization components | **40% improvement** in reporting accuracy |
+
+---
+
+### 📈 ZUUCE Solutions — SEO Analyst
+**`Jan – Jun 2025`** &nbsp; 📍 Siruseri, Chennai
+
+| 🔑 What I Did | 📈 Impact |
+|---|---|
+| On-page, technical & local SEO across 5+ client websites | **20% boost** in organic traffic |
+| SEMrush, Ahrefs, Google Search Console — ranking blockers, schema markup | Improved crawlability & indexation |
+| Weekly performance dashboards tracking KPIs | **25% improvement** in reporting efficiency |
+
+---
+
+### 🎨 Relyce Infotech — Frontend Developer Intern
+**`Oct 2024 – Jan 2025`** &nbsp; 📍 Sholinganallur, Chennai
+
+| 🔑 What I Built | 📈 Impact |
+|---|---|
+| Responsive React.js & Flutter UI components across 3 client products | **15% lift** in user engagement |
+| Reusable component library — 20+ OOP-designed components | **35% reduction** in dev turnaround |
+
+---
+
+## 🔥 Featured Projects
 
 <div align="center">
-  <div style="display: flex; flex-direction: column; gap: 20px; max-width: 800px; margin: 0 auto;">
-    
-    <details style="background: rgba(139,92,246,0.1); border-radius: 20px; padding: 20px; border-left: 4px solid #8B5CF6; transition: all 0.3s ease;">
-      <summary style="cursor: pointer; font-size: 20px; font-weight: bold; color: #8B5CF6;">🚀 MarteX Software Enterprises · Software Developer</summary>
-      <p style="margin-top: 15px; padding-left: 20px;"><strong>Oct 2025 – Present</strong><br/>
-      • Deploying AI-driven full-stack web apps using React.js, Node.js, Flask, Python<br/>
-      • Built SaaS-style admin dashboards with real-time content management<br/>
-      • Reduced client-reported issues by 30% through systematic debugging<br/>
-      • Managed Git workflows and cross-functional collaboration</p>
-    </details>
 
-    <details style="background: rgba(139,92,246,0.08); border-radius: 20px; padding: 20px; border-left: 4px solid #EC4891;">
-      <summary style="cursor: pointer; font-size: 20px; font-weight: bold; color: #EC4891;">🔬 Meras Plugins · AI/ML Engineer @ IITM Research Park</summary>
-      <p style="margin-top: 15px; padding-left: 20px;"><strong>Jul – Oct 2025</strong><br/>
-      • Built Real-Time Energy Dashboard with anomaly detection across 3+ buildings<br/>
-      • Implemented 4 ML models using Scikit-learn, integrated with AWS S3 & TimescaleDB<br/>
-      • Improved energy reporting accuracy by 40% with React.js visualizations</p>
-    </details>
+| 🩺 **Wear X** | 📊 **Energy Dashboard** |
+|---|---|
+| AI wearable for **stroke, fall & Parkinson's** detection | Real-time building analytics with **anomaly detection** |
+| ESP32 · Flutter · Firebase · Python ML | React.js · AWS S3 · TimescaleDB · Scikit-learn |
+| Sub-2-second emergency alerts · Hardware + ML | **40% improvement** in reporting accuracy |
 
-    <details style="background: rgba(139,92,246,0.08); border-radius: 20px; padding: 20px; border-left: 4px solid #06B6D4;">
-      <summary style="cursor: pointer; font-size: 20px; font-weight: bold; color: #06B6D4;">📈 Zuuce Solutions · SEO Analyst</summary>
-      <p style="margin-top: 15px; padding-left: 20px;"><strong>Jan – Jun 2025</strong><br/>
-      • Boosted organic traffic by 20% across 5+ client websites<br/>
-      • Used SEMrush, Ahrefs, Google Search Console for technical SEO<br/>
-      • Improved reporting efficiency by 25% with weekly KPI dashboards</p>
-    </details>
+| 🌐 **Automios** | 🎯 **CodyGrow** |
+|---|---|
+| WordPress site: proposal → live in **15 days** | Data Science workflow automation platform |
+| PHP · REST APIs · SEO Optimized | Flask · Python · JavaScript · Data Viz |
+| End-to-end client delivery | 10 reusable scripts · **40% faster delivery** |
 
-    <details style="background: rgba(139,92,246,0.08); border-radius: 20px; padding: 20px; border-left: 4px solid #10B981;">
-      <summary style="cursor: pointer; font-size: 20px; font-weight: bold; color: #10B981;">🎨 Relyce Infotech · Frontend Developer Intern</summary>
-      <p style="margin-top: 15px; padding-left: 20px;"><strong>Oct 2024 – Jan 2025</strong><br/>
-      • Built responsive React.js & Flutter components, lifting engagement by 15%<br/>
-      • Created 20+ reusable UI components, reducing dev turnaround by 35%</p>
-    </details>
+| ⚡ **TabMind** *(Mar 2026)* | 🔒 **CodeCraft** |
+|---|---|
+| Chrome Extension — AI scans **30 tabs** in < 5 sec | Secure Flask web app for event content |
+| Groups by topic: Job Search, Research, AI Tools | 500 attendees · 60% better accessibility |
+| Groq · Llama 3.3 · Chrome Extension APIs | Flask · SQLite · User Authentication |
 
-  </div>
 </div>
 
 ---
 
-## 🛠️ TECH STACK — Glass Grid
+## 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Cloud, DevOps & Tools**
+![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**AI / ML**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-EC4891?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6B6B?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-06B6D4?style=for-the-badge&logoColor=white)
+
+**IoT**
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Flutter BLE](https://img.shields.io/badge/Flutter_BLE-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase Realtime](https://img.shields.io/badge/Firebase_Realtime-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 20px 0;">
-    
-    <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 24px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color: #8B5CF6;">💻 Languages</h3>
-      <p>Python · JavaScript · TypeScript · Dart · C · HTML5 · CSS3</p>
-    </div>
-    
-    <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 24px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color: #8B5CF6;">⚙️ Frameworks</h3>
-      <p>React.js · Node.js · Flask · Flutter · Next.js · TailwindCSS · Django</p>
-    </div>
-    
-    <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 24px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color: #8B5CF6;">🗄️ Databases</h3>
-      <p>MongoDB · Firebase · PostgreSQL · MySQL · TimescaleDB · SQLite</p>
-    </div>
-    
-    <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 24px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color: #8B5CF6;">☁️ Cloud & Tools</h3>
-      <p>AWS S3 · Git · GitHub · Figma · Postman · VS Code · Android Studio</p>
-    </div>
-    
-    <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 24px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color: #8B5CF6;">🤖 AI/ML</h3>
-      <p>Scikit-learn · NLP · Generative AI · Deep Learning · Model Training</p>
-    </div>
-    
-    <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 24px; padding: 20px; border: 1px solid rgba(255,255,255,0.1);">
-      <h3 style="color: #8B5CF6;">📡 IoT</h3>
-      <p>ESP32 · Flutter BLE · Firebase Realtime · Sensor Integration</p>
-    </div>
-    
-  </div>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&theme=tokyonight&bg_color=0d0d1a&title_color=8B5CF6&icon_color=EC4891&text_color=ffffff&border_color=8B5CF6&border_radius=16" />
+&nbsp;
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&theme=tokyonight&bg_color=0d0d1a&title_color=8B5CF6&text_color=ffffff&border_color=8B5CF6&border_radius=16" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=tokyonight&background=0d0d1a&stroke=8B5CF6&ring=8B5CF6&fire=EC4891&currStreakLabel=8B5CF6&sideLabels=ffffff&dates=a78bfa&border=8B5CF6&border_radius=16" />
+
 </div>
 
 ---
 
-## 🔥 FEATURED PROJECTS — Hover Glass Cards
+## 🏆 Certifications & Achievements
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin: 30px 0;">
-    
-    <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(12px); border-radius: 28px; width: 280px; padding: 20px; transition: transform 0.3s ease, box-shadow 0.3s ease; border: 1px solid rgba(255,255,255,0.15);">
-      <div style="font-size: 48px;">🩺</div>
-      <h3 style="color: #8B5CF6;">Wear X</h3>
-      <p>AI wearable for stroke, fall & Parkinson's detection. Real-time health monitoring with emergency alerts.</p>
-      <code style="font-size: 12px;">Flutter · Firebase · ESP32 · Python ML</code>
-    </div>
-    
-    <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(12px); border-radius: 28px; width: 280px; padding: 20px; transition: transform 0.3s ease, box-shadow 0.3s ease; border: 1px solid rgba(255,255,255,0.15);">
-      <div style="font-size: 48px;">📊</div>
-      <h3 style="color: #EC4891;">Energy Dashboard</h3>
-      <p>Real-time building analytics with anomaly detection. 40% improvement in reporting accuracy.</p>
-      <code style="font-size: 12px;">React.js · AWS S3 · TimescaleDB · Scikit-learn</code>
-    </div>
-    
-    <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(12px); border-radius: 28px; width: 280px; padding: 20px; transition: transform 0.3s ease, box-shadow 0.3s ease; border: 1px solid rgba(255,255,255,0.15);">
-      <div style="font-size: 48px;">🌐</div>
-      <h3 style="color: #06B6D4;">Automios</h3>
-      <p>WordPress website delivered from proposal to live deployment in 15 days. REST API integration.</p>
-      <code style="font-size: 12px;">WordPress · PHP · REST APIs · SEO</code>
-    </div>
-    
-    <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(12px); border-radius: 28px; width: 280px; padding: 20px; transition: transform 0.3s ease, box-shadow 0.3s ease; border: 1px solid rgba(255,255,255,0.15);">
-      <div style="font-size: 48px;">🎯</div>
-      <h3 style="color: #10B981;">CodyGrow</h3>
-      <p>Data Science workflow platform with reusable scripts for cleaning, modeling & visualization.</p>
-      <code style="font-size: 12px;">Flask · Python · JavaScript · Data Viz</code>
-    </div>
-    
-  </div>
+
+| 🥇 Achievement | 🏛️ Issuer | 📅 Year |
+|:---:|:---:|:---:|
+| 🔶 Oracle Cloud AI Foundations Associate | Oracle | Mar 2026 |
+| 🤖 Introduction to ML | IIT Kharagpur — NPTEL | 2025 |
+| 🧠 Introduction to Modern AI | Cisco Networking Academy | May 2025 |
+| 💬 NLP Fundamentals | Infosys Springboard | Apr 2025 |
+| 📊 Introduction to Data Science | Cisco | May 2025 |
+| ✨ Generative AI | GUVI — IIT Madras | Oct 2024 |
+| ⚛️ React.js | Infosys Springboard | Aug 2024 |
+| 📐 Machine Learning Onramp | MathWorks | Sep 2024 |
+| 🔐 Cybersecurity & Ethical Hacking | Coincent.ai | 2024 |
+| 🏆 **Top 25 — Smart India Hackathon 2024** | Government of India | Sep 2024 |
+| 🎯 BITS Pilani Hyderabad Hackathon | BITS Pilani | Mar 2025 |
+
 </div>
 
 ---
 
-## 📊 GITHUB STATS — Glass Panels
+## 📫 Let's Connect
 
 <div align="center">
-  <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 28px; padding: 20px; display: inline-block; border: 1px solid rgba(255,255,255,0.1); margin: 10px;">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&theme=radical&bg_color=00000000&title_color=8B5CF6&icon_color=EC4891&text_color=ffffff&hide_border=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&theme=radical&bg_color=00000000&title_color=8B5CF6&text_color=ffffff&hide_border=true" />
-  </div>
-  <div style="background: rgba(255,255,255,0.05); backdrop-filter: blur(10px); border-radius: 28px; padding: 20px; display: inline-block; border: 1px solid rgba(255,255,255,0.1); margin: 10px;">
-    <img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=radical&background=00000000&stroke=8B5CF6&ring=8B5CF6&fire=EC4891&currStreakLabel=8B5CF6" />
-  </div>
+
+**💬 Open for Internships · Freelance · Collaboration · Research**
+
+🌐 Portfolio: **[madhumitha-venkatesan.onrender.com](https://madhumitha-venkatesan.onrender.com/)**
+📧 Email: **[madhumitha0511@gmail.com](mailto:madhumitha0511@gmail.com)**
+
+<br/>
+
+<a href="https://linkedin.com/in/madhumithavenkatesan">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/madhumitha0511">
+  <img src="https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://madhumitha-venkatesan.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF6B6B?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> ✨ *"Code is not just syntax — it's a story you tell the world."* ✨
+
 </div>
 
----
-
-## 🏆 CERTIFICATIONS & ACHIEVEMENTS
-
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; margin: 20px 0;">
-    <div style="background: rgba(139,92,246,0.15); border-radius: 40px; padding: 8px 20px;">🏅 Oracle Cloud AI Foundations (2026)</div>
-    <div style="background: rgba(139,92,246,0.12); border-radius: 40px; padding: 8px 20px;">🤖 Intro to ML — NPTEL IITKGP</div>
-    <div style="background: rgba(139,92,246,0.12); border-radius: 40px; padding: 8px 20px;">📘 Generative AI — GUVI IITM</div>
-    <div style="background: rgba(139,92,246,0.12); border-radius: 40px; padding: 8px 20px;">⚛️ React.js — Infosys Springboard</div>
-    <div style="background: rgba(236,72,153,0.12); border-radius: 40px; padding: 8px 20px;">🏆 Top 25 @ Smart India Hackathon 2024</div>
-    <div style="background: rgba(236,72,153,0.12); border-radius: 40px; padding: 8px 20px;">🎯 BITS Pilani Hyderabad Hackathon 2025</div>
-    <div style="background: rgba(6,182,212,0.12); border-radius: 40px; padding: 8px 20px;">🔐 Cybersecurity & Ethical Hacking</div>
-  </div>
-</div>
-
----
-
-## 📫 LET'S CONNECT
-
-<div align="center">
-  <div style="background: linear-gradient(135deg, rgba(139,92,246,0.2), rgba(236,72,153,0.2)); border-radius: 48px; padding: 20px 40px; margin: 20px auto; max-width: 500px;">
-    <p style="font-size: 18px;">💬 <strong>Open for internships, freelance, and collaboration</strong></p>
-    <p>📧 madhumitha0511@gmail.com | 🌐 Portfolio: <em>coming soon</em></p>
-    <div style="display: flex; gap: 20px; justify-content: center; margin-top: 15px;">
-      <a href="https://linkedin.com/in/madhumithavenkatesan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /></a>
-      <a href="https://github.com/madhumitha0511"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" /></a>
-    </div>
-  </div>
-</div>
-
----
-
-<div align="center">
-  <div style="background: rgba(255,255,255,0.03); border-radius: 20px; padding: 15px; margin-top: 30px;">
-    <p style="color: rgba(255,255,255,0.6);">✨ "Code is not just syntax — it's a story you tell the world." ✨</p>
-  </div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4891,100:3f2b96&height=100&section=footer" width="100%" />
