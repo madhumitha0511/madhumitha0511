@@ -353,8 +353,7 @@ Events Led
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhumitha0511&theme=monokai" width="30%" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhumitha0511&theme=monokai" width="30%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhumitha0511&theme=monokai" width="30%" />
+
 </div>
 
 <br/>
