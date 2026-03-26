@@ -346,23 +346,12 @@ Events Led
 ## ✦ &nbsp; GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhumitha0511&theme=monokai" width="95%" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhumitha0511&theme=monokai" width="30%" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhumitha0511&theme=monokai" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&count_private=true&theme=radical&bg_color=0d0d0d&title_color=f97316&icon_color=ec4899&text_color=fef9c3&border_color=f97316&border_radius=12&include_all_commits=true" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&theme=radical&bg_color=0d0d0d&title_color=f97316&text_color=fef9c3&border_color=f97316&border_radius=12&langs_count=8" height="180"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=monokai&hide_border=true&background=0D0000&stroke=FF8C42&ring=FFBE3D&fire=FF6B35&currStreakLabel=FFBE3D&sideLabels=FFA94D&dates=FF8C42&border_radius=10" />
-</div>
-
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=radical&background=0d0d0d&stroke=f97316&ring=f97316&fire=ec4899&currStreakLabel=06b6d4&sideLabels=fef9c3&dates=8b949e&border=f97316&border_radius=12" />
 
