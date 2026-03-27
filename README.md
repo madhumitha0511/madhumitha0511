@@ -3,17 +3,13 @@
 <!--   Single theme · Adaptive header/footer/stats      -->
 <!--   Mid-tone palette · Works on light AND dark       -->
 <!-- ══════════════════════════════════════════════════ -->
-
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓  HEADER — adapts to system theme  ▓▓▓▓▓▓▓▓▓▓▓ -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=300&section=header&text=Madhumitha%20Venkatesan&fontSize=52&fontColor=e0d7ff&fontAlignY=42&desc=⚡%20AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Builder%20⚡&descFontSize=15&descAlignY=64&descFontColor=c4b5fd&animation=fadeIn&stroke=7c3aed&strokeWidth=2"/>
+    srcset="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,40:302b63,80:6d28d9,100:0f0c29&height=280&section=header&text=Madhumitha%20Venkatesan&fontSize=52&fontColor=e9d5ff&fontAlignY=45&desc=⚡%20AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Builder%20⚡&descFontSize=15&descAlignY=67&descFontColor=c4b5fd&animation=fadeIn"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:ede9fe,40:ddd6fe,80:c4b5fd,100:ede9fe&height=300&section=header&text=Madhumitha%20Venkatesan&fontSize=52&fontColor=3b0764&fontAlignY=42&desc=⚡%20AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Builder%20⚡&descFontSize=15&descAlignY=64&descFontColor=5b21b6&animation=fadeIn&stroke=7c3aed&strokeWidth=2"/>
+    srcset="https://capsule-render.vercel.app/api?type=wave&color=0:ede9fe,40:ddd6fe,80:a78bfa,100:ede9fe&height=280&section=header&text=Madhumitha%20Venkatesan&fontSize=52&fontColor=3b0764&fontAlignY=45&desc=⚡%20AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Builder%20⚡&descFontSize=15&descAlignY=67&descFontColor=5b21b6&animation=fadeIn"/>
   <img width="100%"
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=300&section=header&text=Madhumitha%20Venkatesan&fontSize=52&fontColor=e0d7ff&fontAlignY=42&desc=⚡%20AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Builder%20⚡&descFontSize=15&descAlignY=64&descFontColor=c4b5fd&animation=fadeIn&stroke=7c3aed&strokeWidth=2"/>
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,40:302b63,80:6d28d9,100:0f0c29&height=280&section=header&text=Madhumitha%20Venkatesan&fontSize=52&fontColor=e9d5ff&fontAlignY=45&desc=⚡%20AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Builder%20⚡&descFontSize=15&descAlignY=67&descFontColor=c4b5fd&animation=fadeIn"/>
 </picture>
 
 <div align="center">
@@ -496,9 +492,9 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=160&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=28&fontColor=c4b5fd&fontAlignY=65&animation=twinkling&stroke=7c3aed&strokeWidth=2"/>
+    srcset="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,40:302b63,80:6d28d9,100:0f0c29&height=160&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=26&fontColor=e9d5ff&fontAlignY=70&animation=fadeIn"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=shark&color=0:ede9fe,40:ddd6fe,80:c4b5fd,100:ede9fe&height=160&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=28&fontColor=4c1d95&fontAlignY=65&animation=twinkling&stroke=7c3aed&strokeWidth=2"/>
+    srcset="https://capsule-render.vercel.app/api?type=wave&color=0:ede9fe,40:ddd6fe,80:a78bfa,100:ede9fe&height=160&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=26&fontColor=3b0764&fontAlignY=70&animation=fadeIn"/>
   <img width="100%"
-    src="https://capsule-render.vercel.app/api?type=shark&color=0:0f0c29,40:302b63,80:24243e,100:0f0c29&height=160&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=28&fontColor=c4b5fd&fontAlignY=65&animation=twinkling&stroke=7c3aed&strokeWidth=2"/>
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,40:302b63,80:6d28d9,100:0f0c29&height=160&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=26&fontColor=e9d5ff&fontAlignY=70&animation=fadeIn"/>
 </picture>
