@@ -1,314 +1,243 @@
-<div align="center">
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--   MADHUMITHA VENKATESAN · GitHub Profile README          -->
+<!--   Style: Glassmorphism · Animated · Visual-first         -->
+<!-- ══════════════════════════════════════════════════════════ -->
 
-<!--
-  ┌─────────────────────────────────────────────────────────┐
-  │   MADHUMITHA OS  ·  v3.26.build  ·  BOOT SEQUENCE      │
-  │   Concept: Terminal Operating System × Indian Print     │
-  │   Palette: Terracotta · Ink · Cream · Copper            │
-  └─────────────────────────────────────────────────────────┘
--->
-
-<!-- ═══ BOOT HEADER ═══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0a00,100:2d1200&height=12"/>
-
-```
- ███╗   ███╗ █████╗ ██████╗ ██╗  ██╗██╗   ██╗███╗   ███╗██╗████████╗██╗  ██╗ █████╗
- ████╗ ████║██╔══██╗██╔══██╗██║  ██║██║   ██║████╗ ████║██║╚══██╔══╝██║  ██║██╔══██╗
- ██╔████╔██║███████║██║  ██║███████║██║   ██║██╔████╔██║██║   ██║   ███████║███████║
- ██║╚██╔╝██║██╔══██║██║  ██║██╔══██║██║   ██║██║╚██╔╝██║██║   ██║   ██╔══██║██╔══██║
- ██║ ╚═╝ ██║██║  ██║██████╔╝██║  ██║╚██████╔╝██║ ╚═╝ ██║██║   ██║   ██║  ██║██║  ██║
- ╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2d1200,100:1a0a00&height=12"/>
+<!-- ░░░ BANNER GIF ░░░ -->
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
 <br/>
 
-<!-- ═══ BOOT SEQUENCE TYPING ═══ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=1800&pause=600&color=E8652A&center=true&vCenter=true&multiline=false&width=750&height=32&lines=%5BBOOT%5D+Loading+kernel...+AI_Engineer+%2B+FullStack_Dev+%2B+Builder;%5BBOOT%5D+Mounting+4+internships...+done;%5BBOOT%5D+Starting+services...+React+Flask+Python+Flutter+Node;%5BBOOT%5D+System+ready.+Chennai%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%E2%80%94+Open+to+work+%F0%9F%9F%A2" alt="boot" />
+<!-- ░░░ GREETING ░░░ -->
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>
+  &nbsp;Hey, I'm <strong>Madhumitha Venkatesan</strong>&nbsp;
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>
+</h1>
 
+<h3 align="center">
+  🤖 AI/ML Engineer &nbsp;·&nbsp; 💻 Full Stack Developer &nbsp;·&nbsp; 🚀 Builder
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+AI-powered+products+that+actually+ship+🚀;React+·+Flutter+·+Python+·+Flask+·+Node.js;4+Internships+·+8%2B+Live+Projects+·+Chennai+🇮🇳;Top+25+%40+Smart+India+Hackathon+2024+🏆;Open+to+SDE+%26+AI+Internships+💼" />
+</p>
+
+<br/>
+
+---
+
+<!-- ░░░ ABOUT ME — with floating GIF ░░░ -->
+
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+### 🙋‍♀️ About Me
+
+- 🎓 3rd Year **B.E. CSE (AI)** @ Sathyabama Institute of Science & Technology, Chennai
+- 💼 Currently **Software Developer** @ MarteX Software Enterprises
+- 🔬 Ex **AI/ML Intern** @ Plugzmart, IITM Research Park
+- 🧠 Building **AI-powered web products** that actually work — not just demos
+- 🏆 **Top 25** at Smart India Hackathon 2024 (Govt of India)
+- ☁️ **Oracle Cloud AI Foundations Certified** (Mar 2026)
+- 🤖 **Anthropic AI Fluency Certified** (Mar 2026)
+- 🎭 Coordinated events for **2,000+ participants** across 2 years
+- 📍 Chennai, Tamil Nadu, India
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/📧-madhumitha0511@gmail.com-1e1e2e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📍-Chennai,_India-1e1e2e?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🟢-Open_To_Work-1e1e2e?style=for-the-badge"/>
+</p>
+
+<br clear="right"/>
+
+---
+
+<!-- ░░░ SOCIALS ░░░ -->
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://madhumitha-venkatesan.onrender.com/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-a855f7?style=for-the-badge&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/madhumithavenkatesan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/madhumitha0511">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:madhumitha0511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=madhumitha0511&style=flat-square&color=a855f7&label=Profile+Views"/>
+
+---
+
+<!-- ░░░ SKILLS ░░░ -->
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<table>
+<tr>
+
+<td width="50%" align="center">
+<h3>💻 Languages</h3>
+<img src="https://skillicons.dev/icons?i=python,javascript,dart,c,html,css,typescript&perline=7"/>
 <br/><br/>
+</td>
 
-<!-- ═══ STATUS CHIPS ═══ -->
-<a href="https://madhumitha-venkatesan.onrender.com/">
-  <img src="https://img.shields.io/badge/◉_PORTFOLIO-LIVE-E8652A?style=flat-square&labelColor=1a0a00&logoColor=white"/>
-</a>
-&ensp;
-<img src="https://img.shields.io/badge/◈_STATUS-OPEN_TO_WORK-2d6a2d?style=flat-square&labelColor=0a1a0a"/>
-&ensp;
-<img src="https://img.shields.io/badge/◆_LOCATION-Chennai_IN-c87941?style=flat-square&labelColor=1a0a00"/>
-&ensp;
-<img src="https://img.shields.io/badge/◇_YEAR-3rd_CSE_(AI)-8c4a1e?style=flat-square&labelColor=1a0a00"/>
-&ensp;
-<img src="https://komarev.com/ghpvc/?username=madhumitha0511&label=PROFILE_READS&color=E8652A&style=flat-square&labelColor=1a0a00"/>
+<td width="50%" align="center">
+<h3>⚙️ Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flutter,flask,nextjs,tailwind,bootstrap&perline=7"/>
+<br/><br/>
+</td>
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  PROCESS TABLE  ·  madhumitha@sist:~$ ps aux                            ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  PID    PROCESS                    STATUS     UPTIME                    ║
-║  ─────────────────────────────────────────────────────────────────────  ║
-║  001    Full_Stack_Developer        ██ running  Oct 2025 → now           ║
-║  002    AI_ML_Engineer              ██ running  Jul 2025 → Oct 2025      ║
-║  003    Frontend_Dev                ██ sleeping Oct 2024 → Jan 2025      ║
-║  004    SEO_Analyst                 ██ stopped  Jan 2025 → Jun 2025      ║
-║  005    AWS_Cloud_Club_Lead         ██ running  Jul 2025 → now           ║
-║  006    Cultural_Coordinator        ██ running  Aug 2023 → now           ║
-║  007    Builder_of_things           ██ running  always → ∞               ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## `./sys-info`
-
-<table>
+</tr>
 <tr>
-<td width="55%" valign="top">
 
-```yaml
-# madhumitha.config.yaml
-
-identity:
-  name:       "Madhumitha Venkatesan"
-  handle:     "@madhumitha0511"
-  role:       "AI Engineer + Full Stack Dev"
-  affiliation: "Sathyabama Institute of Science & Technology"
-  degree:     "B.E. CSE — Specialization in AI"
-  cgpa:       7.66
-  city:       "Chennai, Tamil Nadu 🇮🇳"
-
-runtime:
-  internships:   4
-  apps_shipped:  8+
-  participants_coordinated: 2000+
-  hackathons:    [ "SIH 2024 → Top 25", "BITS Pilani 2025" ]
-
-open_to:
-  - SDE Internships
-  - AI / ML Roles
-  - Full Stack Freelance
-  - Product Collaboration
-
-contact:
-  email:     madhumitha0511@gmail.com
-  portfolio: madhumitha-venkatesan.onrender.com
-  linkedin:  linkedin.com/in/madhumithavenkatesan
-  github:    github.com/madhumitha0511
-```
-
+<td width="50%" align="center">
+<h3>🗄️ Databases & Cloud</h3>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,aws,mongodb,postgresql&perline=6"/>
+<br/><br/>
 </td>
-<td width="45%" valign="top" align="center">
 
-<br/>
-
-**`SYSTEM METRICS`**
-
-<br/>
-
-![](https://img.shields.io/badge/Internships-04-E8652A?style=for-the-badge&labelColor=1a0a00)
-
-![](https://img.shields.io/badge/Apps_Shipped-08+-c87941?style=for-the-badge&labelColor=1a0a00)
-
-![](https://img.shields.io/badge/SIH_2024-Top_25-8c4a1e?style=for-the-badge&labelColor=1a0a00)
-
-![](https://img.shields.io/badge/Events_Led-2000+_participants-5a3010?style=for-the-badge&labelColor=1a0a00)
-
-![](https://img.shields.io/badge/Oracle-OCI_AI_Certified_2026-E8652A?style=for-the-badge&labelColor=1a0a00)
-
-![](https://img.shields.io/badge/Anthropic-AI_Fluency_Certified_2026-c87941?style=for-the-badge&labelColor=1a0a00)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/→_madhumitha--venkatesan.onrender.com-E8652A?style=flat-square&labelColor=1a0a00)](https://madhumitha-venkatesan.onrender.com/)
-
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,androidstudio,wordpress&perline=7"/>
+<br/><br/>
 </td>
+
+</tr>
+<tr>
+
+<td colspan="2" align="center">
+<h3>🤖 AI / ML</h3>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&perline=3"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NLP-a855f7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Groq_API-16a34a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Llama_3.3-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-f97316?style=for-the-badge"/>
+<br/><br/>
+</td>
+
 </tr>
 </table>
+</p>
 
 ---
 
-## `./stack --list-all`
+<!-- ░░░ FEATURED PROJECTS ░░░ -->
 
-<div align="center">
+## 🚀 Featured Projects
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  INSTALLED PACKAGES                                             │
-├────────────────┬────────────────────────────────────────────────┤
-│  LAYER         │  PACKAGES                                      │
-├────────────────┼────────────────────────────────────────────────┤
-│  Frontend      │  React.js  Flutter  HTML5  CSS3  JavaScript    │
-│                │  jQuery  Bootstrap  Tailwind  React Native     │
-├────────────────┼────────────────────────────────────────────────┤
-│  Backend       │  Flask  Node.js  PHP  WordPress  REST APIs     │
-│                │  MVC Architecture  Authentication              │
-├────────────────┼────────────────────────────────────────────────┤
-│  Database      │  MySQL  SQLite  TimescaleDB  Firebase          │
-│                │  SQL Queries  Schema Design                    │
-├────────────────┼────────────────────────────────────────────────┤
-│  AI / ML       │  Scikit-learn  NLP  Deep Learning  Groq API   │
-│                │  Llama 3.3  GenAI  Prompt Engineering          │
-├────────────────┼────────────────────────────────────────────────┤
-│  Cloud / IoT   │  AWS S3  Firebase  Oracle Cloud  ESP32         │
-│                │  BLE  Chrome Extension API                     │
-├────────────────┼────────────────────────────────────────────────┤
-│  Dev Tools     │  Git  GitHub  VS Code  Figma  Postman          │
-│                │  Android Studio  Canva  SEMrush  Ahrefs        │
-├────────────────┼────────────────────────────────────────────────┤
-│  Languages     │  Python  JavaScript  C  SQL  Dart  HTML  CSS   │
-└────────────────┴────────────────────────────────────────────────┘
-```
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
-</div>
+### 🧠 TabMind — AI Chrome Extension
+> *Co-built · JavaScript · Groq API · Llama 3.3 · Chrome Extension API · Mar 2026*
 
-<br/>
+We had **30+ tabs open** with no clue what half of them were — so we built the fix.
 
-**Live icons:**
+- 🤖 Scans all tabs, **auto-groups by topic in < 5 seconds** using Groq + Llama 3.3
+- 📁 Persistent **Saved Groups** that survive browser restarts
+- 🔍 **Keyword-highlighted Tab Search** across open + saved tabs
+- ⏱ **One-click Session Restore** — full browser state snapshots
+- 🗂 **Active Group Manager** — collapse, expand, save from popup
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,dart,c,html,css&perline=6&theme=dark"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=react,flutter,flask,nodejs,nextjs,tailwind&perline=6&theme=dark"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,aws,git,figma&perline=6&theme=dark"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=sklearn,vscode,androidstudio,wordpress,github,postman&perline=6&theme=dark"/>
-
-</div>
+<br clear="right"/>
 
 ---
 
-## `./projects --featured`
-
-<div align="center">
-
-```
-madhumitha@github:~$ ls -la ./projects/
-total 8 · drwxr-xr-x  8 madhumitha staff  · ./
-```
-
-</div>
-
-<br/>
-
-<!-- PROJECT 01 — TABMIND (FLAGSHIP RECENT) -->
-<table>
-<tr>
-<td>
-
-### `[01]` &ensp; 🧠 TabMind — AI Chrome Extension
-**`Chrome Extension API · JavaScript · Groq API · Llama 3.3 · Mar 2026`**
-
-> *"We had 30+ tabs open at all times. No idea what half of them were."*
-> — built the solution instead of complaining.
-
-**What it does:**
-- 🤖 Scans **30+ tabs in < 5 seconds** using Groq + Llama 3.3, auto-groups by topic
-- 📁 Persistent **Saved Groups** — reopen named Chrome groups anytime, across sessions
-- 🔍 **Tab Search** with live keyword highlighting across open tabs + saved groups
-- ⏱ **Session Restore** — one-click snapshot + full restore with groups intact
-- 🗂 **Active Group Manager** — collapse, expand, save Chrome groups from popup
-
-**Real dev work:** Debugged CSP violations · switched AI providers mid-build · fixed cross-origin API errors · shipped production-ready
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- PROJECTS GRID -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `[02]` &ensp; 🩺 WearX — AI Health Wearable
-**`Flutter · Firebase · ESP32 · Python ML · Mar 2025`**
-**`🏆 Top 25 · Smart India Hackathon 2024`**
+### 🩺 WearX — AI Health Wearable
+> *Flutter · Firebase · ESP32 · Python ML · Mar 2025*
+> **🏆 Top 25 · Smart India Hackathon 2024**
 
-Real-time detection of **3 medical conditions:**
-stroke · falls · Parkinson's symptoms
+Low-cost AI wearable for real-time detection of:
+**Stroke · Falls · Parkinson's symptoms**
 
-- Sub-**2-second** emergency SOS alerts via Flutter app
-- ESP32 sensor fusion → Firebase → ML inference pipeline
-- Low-cost hardware, production-quality ML models
-
-</td>
-<td width="50%" valign="top">
-
-### `[03]` &ensp; ⚡ Energy Dashboard
-**`React.js · AWS S3 · TimescaleDB · Scikit-learn · 2025`**
-**`@ Plugzmart, IITM Research Park`**
-
-Live multi-building energy management system:
-
-- Anomaly detection across **3+ building systems**
-- **4 ML models** in production — 40% accuracy improvement
-- Built at a research-grade startup · shipped in 4 months
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `[04]` &ensp; 🏥 MedSyn — Medical Platform
-**`Flask · Python · MySQL · HTML · CSS · JS · 2025`**
-
-Enterprise-style Flask application for a medical distribution company:
-
-- Dynamic product catalog · admin dashboard
-- Distributor inquiry forms · compliance display
-- Full healthcare-grade UI with regulatory info
+- ⚡ Sub-**2-second** SOS emergency alerts
+- 🔗 ESP32 → Firebase → Flutter full pipeline
+- 🧠 ML models built & tested in Python
 
 </td>
 <td width="50%" valign="top">
 
-### `[05]` &ensp; 🌐 Automios — 15-Day Deploy
-**`WordPress · PHP · REST APIs · Dec 2025`**
+### ⚡ Energy Dashboard
+> *React.js · AWS S3 · TimescaleDB · Scikit-learn*
+> *@ Plugzmart, IITM Research Park · 2025*
 
-Software company website — solo end-to-end:
+Real-time multi-building energy management:
 
-- Proposal → design → feedback → **live in 15 days**
-- Independently managed full client lifecycle
-- SEO-optimised + REST API integrated
+- 🏢 Anomaly detection across **3+ buildings**
+- 🤖 **4 ML models** in production
+- 📈 **40% accuracy improvement**
+- Shipped in a 4-month research-grade startup stint
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### `[06]` &ensp; 📊 CodyGrow
-**`Flask · Python · JavaScript · Apr–Jun 2025`**
+### 🏥 MedSyn — Medical Platform
+> *Flask · Python · MySQL · HTML · CSS · JS · 2025*
+
+Enterprise Flask app for medical product distribution:
+
+- 🗂 Dynamic product catalog + admin dashboard
+- 📋 Distributor inquiry & compliance display
+- 🔐 Multi-role authentication system
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Automios — 15-Day Deploy
+> *WordPress · PHP · REST APIs · Dec 2025*
+
+Full website lifecycle, solo:
+
+- 📋 Proposal → design → client feedback → **live in 15 days**
+- 🔌 REST API integration + SEO optimised
+- 👤 Managed entirely independently
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 CodyGrow
+> *Flask · Python · JavaScript · Apr–Jun 2025*
 
 Data science workflow automation platform:
 
-- **10+ prebuilt automation scripts** for every DS stage
-- Data cleaning · modeling · visualization pipelines
-- **40% faster** project delivery for users
+- 🧩 **10+ reusable automation scripts**
+- ⚡ **40% faster** project delivery
+- Covers cleaning · modeling · visualization
 
 </td>
 <td width="50%" valign="top">
 
-### `[07]` &ensp; 🔒 CodeCraft Event App
-**`Flask · Python · SQLite · Auth · Aug 2024`**
+### 🔒 CodeCraft Event App
+> *Flask · Python · SQLite · Auth · Aug 2024*
 
-Secure Flask web app for a 3-day dev workshop:
+Secure event webapp built solo:
 
-- User authentication · session management
-- Day-wise summaries · workshop content system
-- Served **500+ attendees** · built solo in one month
+- 👥 Served **500+ attendees**
+- 🔐 Full auth + SQLite backend
+- 📅 Day-wise summaries + workshop details
 
 </td>
 </tr>
@@ -316,168 +245,152 @@ Secure Flask web app for a 3-day dev workshop:
 
 ---
 
-## `./experience --timeline`
+<!-- ░░░ EXPERIENCE ░░░ -->
+
+## 💼 Work Experience
+
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+
+<details open>
+<summary><b>🟣 MarteX Software Enterprises &nbsp;·&nbsp; Software Developer &nbsp;·&nbsp; Oct 2025 – Present</b></summary>
+<br/>
+
+| | Impact |
+|---|---|
+| 🚀 | **5+ AI-driven full-stack apps** shipped — React · Node · Flask · PHP · WordPress |
+| 🐛 | **30% reduction** in client-reported UI bugs |
+| ⚡ | WordPress site: proposal → live in **15 days** |
+| 🔄 | Git/GitHub workflows · agile SDLC · REST API integration |
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🔬 Plugzmart · AI/ML Engineer Intern &nbsp;·&nbsp; IITM Research Park · Jul – Oct 2025</b></summary>
+<br/>
+
+| | Impact |
+|---|---|
+| 🏢 | Anomaly detection across **3+ building systems** |
+| 🤖 | **4 ML models** — Scikit-learn + AWS S3 + TimescaleDB |
+| 📈 | **40% accuracy improvement** in energy reporting |
+| 📊 | Interactive React.js real-time dashboard |
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>📈 ZUUCE Solutions · SEO Analyst &nbsp;·&nbsp; Jan – Jun 2025</b></summary>
+<br/>
+
+| | Impact |
+|---|---|
+| 📈 | **+20% organic traffic** across 5+ client websites |
+| 🔧 | SEMrush · Ahrefs · Google Search Console · Schema Markup |
+| 📋 | **+25% reporting efficiency** — weekly performance reports |
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🎨 Relyce Infotech · Frontend Developer Intern &nbsp;·&nbsp; Oct 2024 – Jan 2025</b></summary>
+<br/>
+
+| | Impact |
+|---|---|
+| 💡 | **+15% user engagement** across 3 client products |
+| 🧩 | **20+ reusable OOP UI components** built |
+| ⚡ | **35% faster** feature turnaround |
+
+</details>
+
+<br clear="right"/>
+
+---
+
+<!-- ░░░ GITHUB STATS ░░░ -->
+
+## 📊 GitHub Stats
 
 <div align="center">
+  <br/>
 
-```
-════════════════════════════════════════════════════════════════════════
- 2026 ┃
-      ┃  ◉  MarteX Software Enterprises           [ Oct 2025 → now ]
-      ┃     Software Developer · Chennai
-      ┃     ▸ 5+ AI-driven full-stack apps · React · Node · Flask · WordPress
-      ┃     ▸ 30% bug reduction · 15-day solo deployment · SaaS dashboards
-      ┃     ▸ RESTful API integration · agile SDLC · Git/GitHub workflows
-      ┃
- 2025 ┃  ◎  Plugzmart @ IITM Research Park        [ Jul → Oct 2025 ]
-      ┃     AI/ML Engineer Intern · Research-Grade Startup
-      ┃     ▸ Real-time energy dashboard · 3+ buildings · 4 ML models
-      ┃     ▸ 40% accuracy improvement · AWS S3 · TimescaleDB · Scikit-learn
-      ┃
-      ┃  ◎  ZUUCE Solutions                        [ Jan → Jun 2025 ]
-      ┃     SEO Analyst · Siruseri, Chennai
-      ┃     ▸ 20% organic traffic lift · 5+ client sites · Schema markup
-      ┃     ▸ GSC · SEMrush · Ahrefs · 25% reporting efficiency gain
-      ┃
- 2024 ┃  ◎  Relyce Infotech                        [ Oct 2024 → Jan 2025 ]
-      ┃     Frontend Developer Intern · Sholinganallur
-      ┃     ▸ 15% engagement lift · 20+ reusable OOP components
-      ┃     ▸ 35% faster feature turnaround · React.js · Flutter · UI/UX
-      ┃
-      ┃  ◇  AWS Cloud Club SIST — Documentation Lead  [ Jul 2025 → now ]
-      ┃  ◇  Microsoft Club SIST — Core Management     [ Sep 2024 → Feb 2025 ]
-      ┃  ◇  Cultural Coordinator SIST — 2000+ participants [ Aug 2023 → now ]
-════════════════════════════════════════════════════════════════════════
-```
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=tokyonight&hide_border=true"/>
+
+  <br/><br/>
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&theme=tokyo-night&hide_border=true&area=true"/>
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=madhumitha0511&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
 ---
 
-## `./diagnostics --github`
+<!-- ░░░ CERTIFICATIONS ░░░ -->
 
-<div align="center">
+## 🏆 Certifications & Achievements
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&count_private=true&bg_color=120800&title_color=E8652A&icon_color=c87941&text_color=f5e6d3&border_color=5a2d0c&border_radius=8&include_all_commits=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&count_private=true&bg_color=fdf3e9&title_color=8c3a10&icon_color=E8652A&text_color=2d1200&border_color=c87941&border_radius=8&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&count_private=true&bg_color=fdf3e9&title_color=8c3a10&icon_color=E8652A&text_color=2d1200&border_color=c87941&border_radius=8&include_all_commits=true"/>
-</picture>
-&ensp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&bg_color=120800&title_color=E8652A&text_color=f5e6d3&border_color=5a2d0c&border_radius=8&langs_count=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&bg_color=fdf3e9&title_color=8c3a10&text_color=2d1200&border_color=c87941&border_radius=8&langs_count=8"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&bg_color=fdf3e9&title_color=8c3a10&text_color=2d1200&border_color=c87941&border_radius=8&langs_count=8"/>
-</picture>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔶_Oracle_Cloud_AI_Foundations-Certified_Mar_2026-f97316?style=for-the-badge&labelColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/🤖_Anthropic_AI_Fluency-Certified_Mar_2026-a855f7?style=for-the-badge&labelColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/🏆_SIH_2024-Top_25_·_Govt_of_India-f59e0b?style=for-the-badge&labelColor=1e1e2e"/>
+</p>
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=madhumitha0511&background=120800&stroke=5a2d0c&ring=E8652A&fire=c87941&currStreakLabel=E8652A&sideLabels=f5e6d3&dates=9a6040&border=5a2d0c&border_radius=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=madhumitha0511&background=fdf3e9&stroke=c87941&ring=8c3a10&fire=E8652A&currStreakLabel=8c3a10&sideLabels=2d1200&dates=7a5030&border=c87941&border_radius=8"/>
-  <img src="https://streak-stats.demolab.com?user=madhumitha0511&background=fdf3e9&stroke=c87941&ring=8c3a10&fire=E8652A&currStreakLabel=8c3a10&sideLabels=2d1200&dates=7a5030&border=c87941&border_radius=8"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&bg_color=120800&color=c87941&line=E8652A&point=f5e6d3&area=true&border_color=5a2d0c&radius=8"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&bg_color=fdf3e9&color=8c3a10&line=E8652A&point=2d1200&area=true&border_color=c87941&radius=8"/>
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&bg_color=fdf3e9&color=8c3a10&line=E8652A&point=2d1200&area=true&border_color=c87941&radius=8"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=madhumitha0511&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=madhumitha0511&theme=flat&no-frame=false&no-bg=true&margin-w=6&column=7"/>
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=madhumitha0511&theme=flat&no-frame=false&no-bg=true&margin-w=6&column=7"/>
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/ML_IIT_Kharagpur-NPTEL_2025-7c3aed?style=flat-square&labelColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/NLP_Fundamentals-Infosys_Springboard-0891b2?style=flat-square&labelColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Intro_to_Modern_AI-Cisco_Academy-16a34a?style=flat-square&labelColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Data_Science-Cisco_+_Infosys-0284c7?style=flat-square&labelColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Generative_AI-GUVI_/_IITM-a855f7?style=flat-square&labelColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/React.js-Infosys_Springboard-61dafb?style=flat-square&labelColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/ML_Onramp-MathWorks-e16a22?style=flat-square&labelColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Coincent.ai-dc2626?style=flat-square&labelColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/BITS_Pilani_Hackathon-Participant_2025-16a34a?style=flat-square&labelColor=1e1e2e"/>
+  <img src="https://img.shields.io/badge/GDG_Campus-Solution_Challenge_2025-4285f4?style=flat-square&labelColor=1e1e2e"/>
+</p>
 
 ---
 
-## `./certs --verified`
+<!-- ░░░ QUOTE + FOOTER ░░░ -->
 
 <div align="center">
 
-```
-madhumitha@github:~$ cat ./certifications/index.log
-```
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 <br/>
 
-<div align="center">
-
-| `RANK` | Certification | Issuer | Date | Verify |
-|:---:|---|---|:---:|:---:|
-| ★★★ | **Oracle Cloud AI Foundations Associate** | Oracle | Mar 2026 | ✓ |
-| ★★★ | **AI Fluency Framework & Foundations** | Anthropic | Mar 2026 | [✓](https://verify.skilljar.com/c/q27meehrjx9y) |
-| ★★★ | **Introduction to ML — IIT Kharagpur** | NPTEL | Sep 2025 | ✓ |
-| ★★☆ | **Introduction to Modern AI** | Cisco Networking Academy | May 2025 | ✓ |
-| ★★☆ | **NLP Fundamentals** | Infosys Springboard | Apr 2025 | ✓ |
-| ★★☆ | **Introduction to Data Science** | Cisco + Infosys | May 2025 | ✓ |
-| ★★☆ | **Generative AI** | GUVI / IITM Research Park | Oct 2024 | [✓](https://www.guvi.in/share-certificate/8I2F1BcO687Y7GZ340) |
-| ★★☆ | **React.js** | Infosys Springboard | Aug 2024 | ✓ |
-| ★★☆ | **Machine Learning Onramp** | MathWorks | Sep 2024 | ✓ |
-| ★☆☆ | **Cybersecurity & Ethical Hacking** | Coincent.ai | 2024 | ✓ |
-| ★☆☆ | **E-Commerce (Level 1)** | Flipkart | Aug 2024 | [✓](https://unstop.com/certificate-preview/71d24859-c8b7-4582-a3dd-18358b5ad0a5) |
-| 🏆 | **Top 25 — Smart India Hackathon 2024** | Govt of India | Sep 2024 | — |
-| 🎯 | **BITS Pilani Hackathon** | BITS Pilani Hyderabad | Mar 2025 | — |
-| 🌐 | **GDG Campus Solution Challenge** | Google Developers Group | Jul 2025 | — |
-
-</div>
-
----
-
-## `./connect`
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════╗
-║  madhumitha@github:~$ ./connect.sh                        ║
-║                                                           ║
-║  [1] Portfolio ......... madhumitha-venkatesan.onrender.com║
-║  [2] Email ............. madhumitha0511@gmail.com         ║
-║  [3] LinkedIn .......... /in/madhumithavenkatesan         ║
-║  [4] GitHub ............ /madhumitha0511                  ║
-║                                                           ║
-║  > Always open to internships, freelance & collabs.       ║
-║  > If you're building something real — let's talk.        ║
-╚════════════════════════════════════════════════════════════╝
-```
+> ### *"I build things that actually work."*
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◉_PORTFOLIO-madhumitha--venkatesan.onrender.com-E8652A?style=for-the-badge&labelColor=1a0a00)](https://madhumitha-venkatesan.onrender.com/)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a2a)](https://linkedin.com/in/madhumithavenkatesan)
-&ensp;
-[![Gmail](https://img.shields.io/badge/Gmail-Say_Hi-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2a0a0a)](mailto:madhumitha0511@gmail.com)
-&ensp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-E8652A?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0a00)](https://github.com/madhumitha0511)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=💼+Open+for+Internships+%26+Freelance;🤝+Always+open+to+collaborate+on+something+real;⚡+Always+building+·+always+learning"/>
 
 <br/><br/>
 
-```
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  ▓                                                        ▓
-  ▓   "I build things that actually work."                 ▓
-  ▓                              — Madhumitha Venkatesan   ▓
-  ▓                                                        ▓
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-madhumitha--venkatesan.onrender.com-a855f7?style=for-the-badge&labelColor=1e1e2e)](https://madhumitha-venkatesan.onrender.com/)
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:E8652A,50:c87941,100:8c4a1e&height=6"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhumithavenkatesan)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhumitha0511@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhumitha0511)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=2000&pause=800&color=E8652A&center=true&vCenter=true&width=600&height=24&lines=%5BSHUTDOWN%5D+Session+ended.+Thanks+for+visiting.+%5B+exit+0+%5D" />
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:c084fc&height=120&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=18&fontColor=ffffff&fontAlignY=72"/>
 
 </div>
