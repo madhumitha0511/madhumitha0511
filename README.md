@@ -1,147 +1,153 @@
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!--       MADHUMITHA VENKATESAN — README v5.0  🔥          -->
-<!--   slice header · egg footer · vivid tricolor palette   -->
-<!--   Adaptive dark/light · Fun · Interactive · Unique     -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--     MADHUMITHA VENKATESAN — README v5.0                  -->
+<!--     Inspired by: Spider-Verse × Arcane × Linear.app      -->
+<!--     Palette: Electric Cyan · Hot Magenta · Acid Lime      -->
+<!-- ████████████████████████████████████████████████████████ -->
 
-<!-- ░░░░░░░░░░░░  H E A D E R  ░░░░░░░░░░░░ -->
+
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   HEADER — slice type, cinematic diagonal   -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=slice&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=320&section=header&text=Madhumitha%20Venkatesan&fontSize=50&fontColor=f0abfc&fontAlignY=38&fontAlign=70&desc=⚡%20AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Builder&descFontSize=14&descAlignY=58&descAlign=70&descFontColor=a5f3fc&animation=fadeIn&rotate=-5"/>
+    srcset="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,40:0d1b2a,70:0a2540,100:000000&height=320&section=header&text=Madhumitha%20Venkatesan&fontSize=48&fontColor=00f5ff&fontAlignY=40&fontAlign=30&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Builder&descFontSize=14&descAlignY=60&descAlign=30&descFontColor=b5ff00&animation=fadeIn&rotate=-5"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=slice&color=0:fdf4ff,30:fae8ff,60:e9d5ff,100:fdf4ff&height=320&section=header&text=Madhumitha%20Venkatesan&fontSize=50&fontColor=581c87&fontAlignY=38&fontAlign=70&desc=⚡%20AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Builder&descFontSize=14&descAlignY=58&descAlign=70&descFontColor=0891b2&animation=fadeIn&rotate=-5"/>
+    srcset="https://capsule-render.vercel.app/api?type=slice&color=0:e0f7ff,40:ccf2ff,70:99e6ff,100:e0f7ff&height=320&section=header&text=Madhumitha%20Venkatesan&fontSize=48&fontColor=003d5c&fontAlignY=40&fontAlign=30&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Builder&descFontSize=14&descAlignY=60&descAlign=30&descFontColor=006400&animation=fadeIn&rotate=-5"/>
   <img width="100%"
-    src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=320&section=header&text=Madhumitha%20Venkatesan&fontSize=50&fontColor=f0abfc&fontAlignY=38&fontAlign=70&desc=⚡%20AI%20Engineer%20·%20Full%20Stack%20Developer%20·%20Builder&descFontSize=14&descAlignY=58&descAlign=70&descFontColor=a5f3fc&animation=fadeIn&rotate=-5"/>
+    src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,40:0d1b2a,70:0a2540,100:000000&height=320&section=header&text=Madhumitha%20Venkatesan&fontSize=48&fontColor=00f5ff&fontAlignY=40&fontAlign=30&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Builder&descFontSize=14&descAlignY=60&descAlign=30&descFontColor=b5ff00&animation=fadeIn&rotate=-5"/>
 </picture>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=800&color=C084FC&center=true&vCenter=true&width=860&height=52&lines=🔥+AI%2FML+Engineer+%40+IITM+Research+Park;💻+Full-Stack+Dev+%40+MarteX+Software+Enterprises;🛠️+React+·+Flutter+·+Python+·+Node.js+·+Flask;🏆+Top+25+%40+Smart+India+Hackathon+2024;🚀+4+Internships+·+5+Production+Apps+Shipped;💼+Open+for+Internships+%26+Freelance+Opportunities!" />
+<br/>
+
+<!-- Animated typing — magenta accent -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2400&pause=800&color=FF006E&center=true&vCenter=true&width=860&height=45&lines=⚡+AI%2FML+Engineer+%40+IITM+Research+Park;🚀+Full-Stack+Dev+%40+MarteX+Software+Enterprises;🛠️+React+·+Flutter+·+Python+·+Node.js+·+Flask;🏆+Top+25+%40+Smart+India+Hackathon+2024;💼+4+Internships+·+5+Production+Apps+Shipped;🔥+Open+for+Internships+%26+Freelance!" />
 
 <br/><br/>
 
-<!-- ── SOCIAL LINKS ── -->
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-c026d3?style=for-the-badge)](https://madhumitha-venkatesan.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhumithavenkatesan)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhumitha0511)
-[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi!-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhumitha0511@gmail.com)
+<!-- Social badges — Arcade-style, vivid fills -->
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-Visit_Now-00f5ff?style=for-the-badge&logoColor=black&labelColor=003344)](https://madhumitha-venkatesan.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001133)](https://linkedin.com/in/madhumithavenkatesan)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-Follow-ff006e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0011)](https://github.com/madhumitha0511)
+[![Gmail](https://img.shields.io/badge/◈_GMAIL-Say_Hi-b5ff00?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1a2200)](mailto:madhumitha0511@gmail.com)
 
-<br/>
+<br/><br/>
 
-<!-- ── STATUS PILLS ── -->
-![Views](https://komarev.com/ghpvc/?username=madhumitha0511&style=for-the-badge&color=c026d3&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=madhumitha0511&style=flat-square&color=00f5ff&label=👁+Views)
 &nbsp;
-![Oracle](https://img.shields.io/badge/🔶%20Oracle-AI%20Foundations%202026-f97316?style=flat-square&labelColor=1c0a00)
+![Oracle](https://img.shields.io/badge/🔶_Oracle_2026-AI_Foundations-ff006e?style=flat-square&labelColor=1a0011)
 &nbsp;
-![SIH](https://img.shields.io/badge/🏆%20SIH%202024-Top%2025-c026d3?style=flat-square&labelColor=2e0040)
+![SIH](https://img.shields.io/badge/🏆_SIH_2024-Top_25-b5ff00?style=flat-square&labelColor=1a2200)
 &nbsp;
-![OTW](https://img.shields.io/badge/🟢%20Status-Open%20To%20Work-16a34a?style=flat-square&labelColor=052e16)
+![Status](https://img.shields.io/badge/⚡_Status-Open_To_Work-00f5ff?style=flat-square&labelColor=003344)
 
 </div>
 
 <br/>
 
-<!-- ░░ WAVE DIVIDER 1 ░░ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&color=0:c026d3,40:7c3aed,80:0891b2,100:c026d3&height=4"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:e879f9,40:a78bfa,80:67e8f9,100:e879f9&height=4"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:c026d3,40:7c3aed,80:0891b2,100:c026d3&height=4" width="100%"/>
-</picture>
+<!-- ░░░ NEON DIVIDER ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,33:00f5ff,66:b5ff00,100:ff006e&height=4" width="100%"/>
 
 <br/>
 
-<!-- ╔═══════════════════════╗ -->
-<!--      ✦ AT A GLANCE       -->
-<!-- ╚═══════════════════════╝ -->
+<!-- ╔══════════════════════╗ -->
+<!--      AT A GLANCE        -->
+<!-- ╚══════════════════════╝ -->
 
 <div align="center">
 
-## ⚡ At a Glance
+## `[ AT A GLANCE ]`
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="14">
+<table>
 <tr>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80"/><br/>
-<img src="https://img.shields.io/badge/4-INTERNSHIPS-c026d3?style=for-the-badge&labelColor=2e0040"/><br/>
-<sub>AI · ML · Dev · SEO</sub>
+
+<td align="center" width="22%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="75"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/04-INTERNSHIPS-00f5ff?style=for-the-badge&labelColor=003344"/>
+<br/><sub><b>AI · ML · Dev · SEO</b></sub>
 </td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="80"/><br/>
-<img src="https://img.shields.io/badge/5-APPS%20SHIPPED-7c3aed?style=for-the-badge&labelColor=1e0040"/><br/>
-<sub>Production & Live</sub>
+
+<td align="center" width="22%">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="75"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/05-APPS_LIVE-ff006e?style=for-the-badge&labelColor=1a0011"/>
+<br/><sub><b>Shipped to Production</b></sub>
 </td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="80"/><br/>
-<img src="https://img.shields.io/badge/TOP_25-SIH%202024-f97316?style=for-the-badge&labelColor=1c0a00"/><br/>
-<sub>Govt of India 🇮🇳</sub>
+
+<td align="center" width="22%">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="75"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/TOP_25-SIH_2024-b5ff00?style=for-the-badge&labelColor=1a2200"/>
+<br/><sub><b>Govt of India</b></sub>
 </td>
-<td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/><br/>
-<img src="https://img.shields.io/badge/2000%2B-EVENTS%20LED-0891b2?style=for-the-badge&labelColor=082f49"/><br/>
-<sub>Participants Coordinated</sub>
+
+<td align="center" width="22%">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="75"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/2000%2B-EVENTS_LED-ff006e?style=for-the-badge&labelColor=1a0011"/>
+<br/><sub><b>Participants Coordinated</b></sub>
 </td>
+
 </tr>
 </table>
 
 </div>
 
 <br/>
-
-<!-- ░░ DIVIDER ░░ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&color=0:082f49,40:0891b2,80:a5f3fc,100:082f49&height=4"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:cffafe,40:67e8f9,80:22d3ee,100:cffafe&height=4"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:082f49,40:0891b2,80:a5f3fc,100:082f49&height=4" width="100%"/>
-</picture>
-
+<!-- ░░░ NEON DIVIDER ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b5ff00,50:00f5ff,100:b5ff00&height=4" width="100%"/>
 <br/>
 
-<!-- ╔═══════════════╗ -->
-<!--    ✦ ABOUT ME    -->
-<!-- ╚═══════════════╝ -->
+<!-- ╔══════════════════════╗ -->
+<!--        ABOUT ME         -->
+<!-- ╚══════════════════════╝ -->
 
-## 🧑‍💻 About Me
+## `[ ABOUT ME ]`
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="230" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="220"/>
 
-```yaml
-👤  Name    :  Madhumitha Venkatesan
-🎯  Role    :  AI Engineer + Full Stack Developer
-🏢  Company :  MarteX Software Enterprises
-🎓  College :  B.E. CSE (AI) · SIST Chennai
-📊  CGPA    :  7.66 / 10
-🔧  Stack   :  React · Flutter · Python · Node · Flask
-📍  City    :  Chennai, Tamil Nadu 🌶️
-🔥  Status  :  Open to Internships & Freelance
+```ini
+[identity]
+name     = Madhumitha Venkatesan
+role     = AI Engineer + Full Stack Developer
+company  = MarteX Software Enterprises
+
+[education]
+college  = B.E. CSE (AI) · SIST Chennai
+cgpa     = 7.66 / 10
+
+[tech]
+stack    = React · Flutter · Python · Node · Flask
+
+[location]
+city     = Chennai, Tamil Nadu 📍
+
+[availability]
+status   = Open to Internships & Freelance 🔥
 ```
 
 🔥 Building **AI-powered products** that actually ship — not just demos  
-⚡ **Plugzmart @ IITM Research Park** — real-time energy analytics platform  
-🏆 **Top 25 @ Smart India Hackathon 2024** — AI wearable for stroke detection  
-☁️ **Technical Lead** @ AWS Cloud Club · **Core Member** @ Microsoft Club  
-🎭 Coordinated cultural events for **2,000+ participants** over 2 years  
+🔥 **Plugzmart @ IITM Research Park** — real-time energy anomaly detection  
+🔥 **Top 25 @ Smart India Hackathon 2024** — AI wearable for stroke detection  
+🔥 **Technical Lead** @ AWS Cloud Club · **Core Member** @ Microsoft Club  
+🔥 Coordinated events for **2,000+ participants** across 2 years  
 
 <br clear="right"/>
 
 <br/>
-
-<!-- ░░ DIVIDER ░░ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&color=0:500724,40:be185d,80:fb7185,100:500724&height=4"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:fce7f3,40:f9a8d4,80:f472b6,100:fce7f3&height=4"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:500724,40:be185d,80:fb7185,100:500724&height=4" width="100%"/>
-</picture>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,50:ff4d94,100:ff006e&height=4" width="100%"/>
 <br/>
 
-<!-- ╔══════════════╗ -->
-<!--   ✦ TECH STACK  -->
-<!-- ╚══════════════╝ -->
+<!-- ╔══════════════════════╗ -->
+<!--       TECH STACK        -->
+<!-- ╚══════════════════════╝ -->
 
-## 🛠️ Tech Stack
+## `[ TECH STACK ]`
 
 <div align="center">
 
@@ -149,22 +155,22 @@
 <tr>
 <td align="center" width="33%">
 
-**🧠 Languages**
-<br/>
+**`// Languages`**
+
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,c,html,css&theme=dark&perline=4"/>
 
 </td>
 <td align="center" width="33%">
 
-**⚙️ Frameworks**
-<br/>
+**`// Frameworks`**
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,flask,nextjs,tailwind,django&theme=dark&perline=4"/>
 
 </td>
 <td align="center" width="33%">
 
-**☁️ Data & Cloud**
-<br/>
+**`// Data & Cloud`**
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,aws,gcp,sqlite&theme=dark&perline=4"/>
 
 </td>
@@ -172,32 +178,34 @@
 <tr>
 <td align="center" width="33%">
 
-**🧰 Dev Tools**
-<br/>
+**`// Dev Tools`**
+
 <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,androidstudio,wordpress&theme=dark&perline=4"/>
 
 </td>
 <td align="center" width="33%">
 
-**🤖 AI / ML**
-<br/>
+**`// AI & ML`**
+
 <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark&perline=3"/>
-<br/><br/>
-![NLP](https://img.shields.io/badge/NLP-c026d3?style=flat-square)
-![GenAI](https://img.shields.io/badge/Generative_AI-7c3aed?style=flat-square)
-![Prompt](https://img.shields.io/badge/Prompt_Eng-0891b2?style=flat-square)
-![DL](https://img.shields.io/badge/Deep_Learning-f97316?style=flat-square)
+
+<br/>
+
+![NLP](https://img.shields.io/badge/NLP-00f5ff?style=flat-square&logoColor=black)
+![GenAI](https://img.shields.io/badge/Generative_AI-ff006e?style=flat-square&logoColor=white)
+![Prompt](https://img.shields.io/badge/Prompt_Eng-b5ff00?style=flat-square&logoColor=black)
+![DL](https://img.shields.io/badge/Deep_Learning-ff006e?style=flat-square)
 
 </td>
 <td align="center" width="33%">
 
-**📡 IoT & More**
-<br/>
-![ESP32](https://img.shields.io/badge/ESP32-dc2626?style=flat-square&logo=espressif&logoColor=white)
-![Flutter BLE](https://img.shields.io/badge/Flutter_BLE-0284c7?style=flat-square&logo=flutter&logoColor=white)
-![Firebase RT](https://img.shields.io/badge/Firebase_RT-f59e0b?style=flat-square&logo=firebase&logoColor=white)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-0891b2?style=flat-square)
-![AWS S3](https://img.shields.io/badge/AWS_S3-f97316?style=flat-square&logo=amazonaws&logoColor=white)
+**`// IoT & Infra`**
+
+![ESP32](https://img.shields.io/badge/ESP32-ff006e?style=flat-square&logo=espressif&logoColor=white)
+![Flutter BLE](https://img.shields.io/badge/Flutter_BLE-00f5ff?style=flat-square&logo=flutter&logoColor=black)
+![Firebase RT](https://img.shields.io/badge/Firebase_RT-b5ff00?style=flat-square&logo=firebase&logoColor=black)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-00f5ff?style=flat-square)
+![AWS S3](https://img.shields.io/badge/AWS_S3-ff9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 </td>
 </tr>
@@ -206,95 +214,81 @@
 </div>
 
 <br/>
-
-<!-- ░░ DIVIDER ░░ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1c0a00,40:c2410c,80:fb923c,100:1c0a00&height=4"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:fff7ed,40:fed7aa,80:fb923c,100:fff7ed&height=4"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c0a00,40:c2410c,80:fb923c,100:1c0a00&height=4" width="100%"/>
-</picture>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f5ff,50:b5ff00,100:00f5ff&height=4" width="100%"/>
 <br/>
 
-<!-- ╔═══════════════════╗ -->
-<!--   ✦ WORK EXPERIENCE  -->
-<!-- ╚═══════════════════╝ -->
+<!-- ╔══════════════════════╗ -->
+<!--     WORK EXPERIENCE     -->
+<!-- ╚══════════════════════╝ -->
 
-## 💼 Work Experience
+## `[ WORK EXPERIENCE ]`
 
 <details open>
-<summary><b>🟣 MarteX Software Enterprises</b> &nbsp;·&nbsp; Software Developer &nbsp;·&nbsp; de>Oct 2025 – Present</code></summary>
+<summary><b>◈ MarteX Software Enterprises</b> &nbsp;·&nbsp; Software Developer &nbsp;·&nbsp; de>Oct 2025 – Present</code></summary>
 <br/>
 
-| | Metric | Impact |
-|---|---|---|
-| 🚀 | Apps Shipped | **5 AI-driven full-stack apps** — React · Node · Flask · PHP · WordPress |
-| 🐛 | Bug Reduction | **30% fewer** client-reported bugs via systematic debugging |
-| ⚡ | Delivery Speed | WordPress site: proposal → live in just **15 days** |
-| 🔄 | Workflows | Git/GitHub + intelligent automation dashboards |
+| 🔹 Metric | ⚡ Impact |
+|---|---|
+| Apps Shipped | **5 AI-driven full-stack apps** — React · Node · Flask · PHP · WordPress |
+| Bug Reduction | **30% fewer** client-reported bugs via systematic debugging |
+| Delivery Speed | WordPress site: proposal → live in **15 days** |
+| Workflows | Git/GitHub + intelligent automation dashboards |
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>🔬 Plugzmart · AI/ML Engineer Intern</b> &nbsp;@&nbsp; IITM Research Park &nbsp;·&nbsp; de>Jul – Oct 2025</code></summary>
+<summary><b>◈ Plugzmart · AI/ML Engineer Intern</b> &nbsp;@&nbsp; IITM Research Park &nbsp;·&nbsp; de>Jul – Oct 2025</code></summary>
 <br/>
 
-| | Metric | Impact |
-|---|---|---|
-| 🏢 | Coverage | Anomaly detection across **3+ buildings** |
-| 🤖 | ML Models | **4 models** deployed — Scikit-learn + AWS S3 + TimescaleDB |
-| 🎯 | Accuracy | Energy reporting improved by **40%** |
-| 📊 | Visualization | Interactive React.js live multi-building monitoring |
+| 🔹 Metric | ⚡ Impact |
+|---|---|
+| Coverage | Anomaly detection across **3+ buildings** |
+| ML Models | **4 models** deployed — Scikit-learn + AWS S3 + TimescaleDB |
+| Accuracy | Energy reporting improved by **40%** |
+| Visualization | Interactive React.js live multi-building monitoring |
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>📈 ZUUCE Solutions</b> &nbsp;·&nbsp; SEO Analyst &nbsp;·&nbsp; de>Jan – Jun 2025</code></summary>
+<summary><b>◈ ZUUCE Solutions</b> &nbsp;·&nbsp; SEO Analyst &nbsp;·&nbsp; de>Jan – Jun 2025</code></summary>
 <br/>
 
-| | Metric | Impact |
-|---|---|---|
-| 📈 | Organic Traffic | **+20%** across 5+ client websites |
-| 🔧 | Tools | SEMrush · Ahrefs · Google Search Console · Schema Markup |
-| 📋 | Reporting | **+25%** client reporting efficiency |
+| 🔹 Metric | ⚡ Impact |
+|---|---|
+| Organic Traffic | **+20%** across 5+ client websites |
+| Tools | SEMrush · Ahrefs · Google Search Console · Schema Markup |
+| Reporting | **+25%** client reporting efficiency |
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>🎨 Relyce Infotech</b> &nbsp;·&nbsp; Frontend Developer Intern &nbsp;·&nbsp; de>Oct 2024 – Jan 2025</code></summary>
+<summary><b>◈ Relyce Infotech</b> &nbsp;·&nbsp; Frontend Developer Intern &nbsp;·&nbsp; de>Oct 2024 – Jan 2025</code></summary>
 <br/>
 
-| | Metric | Impact |
-|---|---|---|
-| 📦 | Products Built | **3** responsive React.js & Flutter client products |
-| 💡 | User Engagement | **+15%** lift |
-| ⚡ | Dev Speed | **35% faster** feature turnaround |
-| 🧩 | Component Library | **20+ OOP-designed** reusable components |
+| 🔹 Metric | ⚡ Impact |
+|---|---|
+| Products Built | **3** responsive React.js & Flutter client products |
+| User Engagement | **+15%** lift |
+| Dev Speed | **35% faster** feature turnaround |
+| Component Library | **20+ OOP-designed** reusable components |
 
 </details>
 
 <br/>
-
-<!-- ░░ DIVIDER ░░ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,40:16a34a,80:86efac,100:052e16&height=4"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:f0fdf4,40:86efac,80:4ade80,100:f0fdf4&height=4"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,40:16a34a,80:86efac,100:052e16&height=4" width="100%"/>
-</picture>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b5ff00,50:00f5ff,100:b5ff00&height=4" width="100%"/>
 <br/>
 
-<!-- ╔════════════════════╗ -->
-<!--   ✦ FEATURED PROJECTS -->
-<!-- ╚════════════════════╝ -->
+<!-- ╔══════════════════════╗ -->
+<!--    FEATURED PROJECTS    -->
+<!-- ╚══════════════════════╝ -->
 
-## 🚀 Featured Projects
+## `[ FEATURED PROJECTS ]`
 
 <div align="center">
 
@@ -302,16 +296,16 @@
 <tr>
 <td colspan="2" align="center">
 
-### 🩺 Wear X — AI Health Wearable &nbsp; `🏆 TOP 25 · SIH 2024 · Govt of India`
+### 🩺 `WEAR X` — AI Health Wearable
+#### `★ TOP 25 · SMART INDIA HACKATHON 2024 · GOVT OF INDIA`
 
-> Real-time AI detection of **stroke · falls · Parkinson's** · Sub-2-sec emergency alerts
-> Full Hardware + Software + ML pipeline · ESP32 + Flutter BLE · Low-cost lifesaving wearable
+> Real-time AI detection of **stroke · falls · Parkinson's** · Sub-2-sec emergency alerts  
+> Full Hardware + Software + ML pipeline · Low-cost ESP32 wearable + Flutter BLE
 
-![Flutter](https://img.shields.io/badge/Flutter-0284c7?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-f59e0b?style=for-the-badge&logo=firebase&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-dc2626?style=for-the-badge&logo=espressif&logoColor=white)
-![Python ML](https://img.shields.io/badge/Python_ML-2563eb?style=for-the-badge&logo=python&logoColor=white)
-![BLE](https://img.shields.io/badge/BLE-7c3aed?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-00f5ff?style=for-the-badge&logo=flutter&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-b5ff00?style=for-the-badge&logo=firebase&logoColor=black)
+![ESP32](https://img.shields.io/badge/ESP32-ff006e?style=for-the-badge&logo=espressif&logoColor=white)
+![Python ML](https://img.shields.io/badge/Python_ML-ff006e?style=for-the-badge&logo=python&logoColor=white)
 
 </td>
 </tr>
@@ -319,30 +313,30 @@
 <tr>
 <td align="center" width="50%">
 
-### ⚡ TabMind — AI Chrome Extension
-`Mar 2026 · Groq + Llama 3.3 · Co-built`
+### ⚡ `TABMIND` — AI Chrome Extension
+`Mar 2026 · Groq · Llama 3.3 · Co-built`
 
-![JS](https://img.shields.io/badge/JavaScript-ca8a04?style=flat-square&logo=javascript&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-059669?style=flat-square)
-![Llama](https://img.shields.io/badge/Llama_3.3-c026d3?style=flat-square)
-![Chrome](https://img.shields.io/badge/Chrome_Ext-1d4ed8?style=flat-square&logo=googlechrome&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-b5ff00?style=flat-square&logo=javascript&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq_API-00f5ff?style=flat-square)
+![Llama 3.3](https://img.shields.io/badge/Llama_3.3-ff006e?style=flat-square)
+![Chrome](https://img.shields.io/badge/Chrome_Ext-00f5ff?style=flat-square&logo=googlechrome&logoColor=black)
 
-▸ Scans **30 tabs in < 5 seconds** · Auto-groups by topic  
+▸ Scans **30 tabs in < 5 sec** · Auto-groups by topic  
 ▸ Persistent groups · keyword search · one-click restore
 
 </td>
 <td align="center" width="50%">
 
-### 📊 Energy Dashboard
+### 📊 `ENERGY DASHBOARD`
 `Plugzmart · IITM Research Park · Production`
 
-![React](https://img.shields.io/badge/React-0891b2?style=flat-square&logo=react&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_S3-f97316?style=flat-square&logo=amazonaws&logoColor=white)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-0891b2?style=flat-square)
-![Sklearn](https://img.shields.io/badge/Sklearn-f97316?style=flat-square&logo=scikitlearn&logoColor=white)
+![React](https://img.shields.io/badge/React-00f5ff?style=flat-square&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_S3-ff9900?style=flat-square&logo=amazonaws&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-b5ff00?style=flat-square&logoColor=black)
+![Sklearn](https://img.shields.io/badge/Scikit--learn-ff006e?style=flat-square&logo=scikitlearn&logoColor=white)
 
-▸ Anomaly detection across **3+ buildings** live  
-▸ **40% improvement** in accuracy · 4 ML models
+▸ Live anomaly detection across **3+ buildings**  
+▸ **40% accuracy boost** · 4 ML models in production
 
 </td>
 </tr>
@@ -350,27 +344,27 @@
 <tr>
 <td align="center" width="50%">
 
-### 🌐 Automios — WordPress Delivery
+### 🌐 `AUTOMIOS` — WordPress Delivery
 `Proposal → Live in 15 days · Solo`
 
-![WordPress](https://img.shields.io/badge/WordPress-1d4ed8?style=flat-square&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-6d28d9?style=flat-square&logo=php&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-dc2626?style=flat-square)
-![SEO](https://img.shields.io/badge/SEO_Optimized-16a34a?style=flat-square)
+![WordPress](https://img.shields.io/badge/WordPress-00f5ff?style=flat-square&logo=wordpress&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-ff006e?style=flat-square&logo=php&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-b5ff00?style=flat-square&logoColor=black)
+![SEO](https://img.shields.io/badge/SEO_Optimized-00f5ff?style=flat-square)
 
 ▸ Full lifecycle solo · REST API + deploy
 
 </td>
 <td align="center" width="50%">
 
-### 🎯 CodyGrow + 🔒 CodeCraft
+### 🎯 `CODYGROW` + 🔒 `CODECRAFT`
 
-![Flask](https://img.shields.io/badge/Flask-374151?style=flat-square&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2563eb?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0891b2?style=flat-square&logo=sqlite&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-b5ff00?style=flat-square&logo=flask&logoColor=black)
+![Python](https://img.shields.io/badge/Python-00f5ff?style=flat-square&logo=python&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-ff006e?style=flat-square&logo=sqlite&logoColor=white)
 
 ▸ CodyGrow: **10 DS automation scripts** · 40% faster  
-▸ CodeCraft: **500 attendees** · Full auth + SQLite
+▸ CodeCraft: **500 attendees** · Full auth + SQLite backend
 
 </td>
 </tr>
@@ -379,145 +373,124 @@
 </div>
 
 <br/>
-
-<!-- ░░ DIVIDER ░░ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,40:4338ca,80:818cf8,100:1e1b4b&height=4"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:eef2ff,40:c7d2fe,80:818cf8,100:eef2ff&height=4"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1b4b,40:4338ca,80:818cf8,100:1e1b4b&height=4" width="100%"/>
-</picture>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,33:00f5ff,66:b5ff00,100:ff006e&height=4" width="100%"/>
 <br/>
 
-<!-- ╔═══════════════╗ -->
-<!--   ✦ GITHUB STATS -->
-<!-- ╚═══════════════╝ -->
+<!-- ╔══════════════════════╗ -->
+<!--      GITHUB STATS       -->
+<!-- ╚══════════════════════╝ -->
 
-## 📊 GitHub Stats
+## `[ GITHUB STATS ]`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&count_private=true&theme=midnight-purple&bg_color=0d0221&title_color=c084fc&icon_color=f0abfc&text_color=e2e8f0&border_color=7c3aed&border_radius=16&include_all_commits=true"/>
+    srcset="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&count_private=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=ff006e&text_color=ffffff&border_color=00f5ff&border_radius=12&include_all_commits=true"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&count_private=true&theme=buefy&bg_color=fdf4ff&title_color=7c3aed&icon_color=c026d3&text_color=1e1b4b&border_color=d946ef&border_radius=16&include_all_commits=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&count_private=true&theme=midnight-purple&bg_color=0d0221&title_color=c084fc&icon_color=f0abfc&text_color=e2e8f0&border_color=7c3aed&border_radius=16&include_all_commits=true"/>
+    srcset="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&count_private=true&bg_color=e0f7ff&title_color=003d5c&icon_color=cc0055&text_color=001a33&border_color=007399&border_radius=12&include_all_commits=true"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&count_private=true&bg_color=0d0d0d&title_color=00f5ff&icon_color=ff006e&text_color=ffffff&border_color=00f5ff&border_radius=12&include_all_commits=true"/>
 </picture>
-&nbsp;&nbsp;
+&nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&theme=midnight-purple&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0&border_color=7c3aed&border_radius=16&langs_count=8"/>
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&bg_color=0d0d0d&title_color=00f5ff&text_color=ffffff&border_color=00f5ff&border_radius=12&langs_count=8"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&theme=buefy&bg_color=fdf4ff&title_color=7c3aed&text_color=1e1b4b&border_color=d946ef&border_radius=16&langs_count=8"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&theme=midnight-purple&bg_color=0d0221&title_color=c084fc&text_color=e2e8f0&border_color=7c3aed&border_radius=16&langs_count=8"/>
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=madhumitha0511&theme=midnight-purple&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f0abfc&currStreakLabel=a5f3fc&sideLabels=c084fc&dates=64748b&border=7c3aed&border_radius=16"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://streak-stats.demolab.com?user=madhumitha0511&theme=buefy&background=fdf4ff&stroke=d946ef&ring=c026d3&fire=be185d&currStreakLabel=0891b2&sideLabels=7c3aed&dates=64748b&border=d946ef&border_radius=16"/>
-  <img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=midnight-purple&background=0d0221&stroke=7c3aed&ring=c084fc&fire=f0abfc&currStreakLabel=a5f3fc&sideLabels=c084fc&dates=64748b&border=7c3aed&border_radius=16"/>
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&bg_color=e0f7ff&title_color=003d5c&text_color=001a33&border_color=007399&border_radius=12&langs_count=8"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&bg_color=0d0d0d&title_color=00f5ff&text_color=ffffff&border_color=00f5ff&border_radius=12&langs_count=8"/>
 </picture>
 
 <br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&bg_color=0d0221&color=c084fc&line=f0abfc&point=a5f3fc&area=true&area_color=7c3aed&border_color=7c3aed&radius=16"/>
+    srcset="https://streak-stats.demolab.com?user=madhumitha0511&background=0d0d0d&stroke=00f5ff&ring=ff006e&fire=b5ff00&currStreakLabel=00f5ff&sideLabels=b5ff00&dates=888888&border=00f5ff&border_radius=12"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&bg_color=fdf4ff&color=7c3aed&line=c026d3&point=0891b2&area=true&area_color=e9d5ff&border_color=d946ef&radius=16"/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&bg_color=0d0221&color=c084fc&line=f0abfc&point=a5f3fc&area=true&area_color=7c3aed&border_color=7c3aed&radius=16"/>
+    srcset="https://streak-stats.demolab.com?user=madhumitha0511&background=e0f7ff&stroke=007399&ring=cc0055&fire=447700&currStreakLabel=003d5c&sideLabels=003d5c&dates=666666&border=007399&border_radius=12"/>
+  <img src="https://streak-stats.demolab.com?user=madhumitha0511&background=0d0d0d&stroke=00f5ff&ring=ff006e&fire=b5ff00&currStreakLabel=00f5ff&sideLabels=b5ff00&dates=888888&border=00f5ff&border_radius=12"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&bg_color=0d0d0d&color=00f5ff&line=ff006e&point=b5ff00&area=true&border_color=00f5ff&radius=12"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&bg_color=e0f7ff&color=003d5c&line=cc0055&point=447700&area=true&border_color=007399&radius=12"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&bg_color=0d0d0d&color=00f5ff&line=ff006e&point=b5ff00&area=true&border_color=00f5ff&radius=12"/>
 </picture>
 
 </div>
 
 <br/>
-
-<!-- ░░ DIVIDER ░░ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&color=0:082f49,40:0891b2,80:a5f3fc,100:082f49&height=4"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ecfeff,40:67e8f9,80:22d3ee,100:ecfeff&height=4"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:082f49,40:0891b2,80:a5f3fc,100:082f49&height=4" width="100%"/>
-</picture>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:b5ff00,50:ff006e,100:b5ff00&height=4" width="100%"/>
 <br/>
 
-<!-- ╔═══════════════════════════════╗ -->
-<!--   ✦ ACHIEVEMENTS & CERTS        -->
-<!-- ╚═══════════════════════════════╝ -->
+<!-- ╔═══════════════════════════════════╗ -->
+<!--   ACHIEVEMENTS & CERTIFICATIONS     -->
+<!-- ╚═══════════════════════════════════╝ -->
 
-## 🏆 Achievements & Certifications
+## `[ ACHIEVEMENTS & CERTIFICATIONS ]`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-trophy.vercel.app/?username=madhumitha0511&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+    srcset="https://github-profile-trophy.vercel.app/?username=madhumitha0511&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
   <source media="(prefers-color-scheme: light)"
     srcset="https://github-profile-trophy.vercel.app/?username=madhumitha0511&theme=flat&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=madhumitha0511&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=madhumitha0511&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 </picture>
 
 <br/><br/>
 
 <table>
 <tr>
-<th>🔖</th>
+<th>◈</th>
 <th align="left">Certification / Achievement</th>
 <th align="left">Issuer</th>
 <th align="center">Date</th>
 </tr>
-<tr><td>🔶</td><td>Oracle Cloud AI Foundations Associate</td><td>Oracle</td><td><img src="https://img.shields.io/badge/Mar%202026-c026d3?style=flat-square"/></td></tr>
-<tr><td>🤖</td><td>Introduction to ML</td><td>IIT KGP — NPTEL</td><td><img src="https://img.shields.io/badge/2025-7c3aed?style=flat-square"/></td></tr>
-<tr><td>🧠</td><td>Introduction to Modern AI</td><td>Cisco</td><td><img src="https://img.shields.io/badge/May%202025-7c3aed?style=flat-square"/></td></tr>
-<tr><td>💬</td><td>NLP Fundamentals</td><td>Infosys</td><td><img src="https://img.shields.io/badge/Apr%202025-0891b2?style=flat-square"/></td></tr>
-<tr><td>📊</td><td>Introduction to Data Science</td><td>Cisco</td><td><img src="https://img.shields.io/badge/May%202025-0891b2?style=flat-square"/></td></tr>
-<tr><td>✨</td><td>Generative AI</td><td>GUVI — IITM</td><td><img src="https://img.shields.io/badge/Oct%202024-f97316?style=flat-square"/></td></tr>
-<tr><td>⚛️</td><td>React.js Certification</td><td>Infosys</td><td><img src="https://img.shields.io/badge/Aug%202024-f97316?style=flat-square"/></td></tr>
-<tr><td>📐</td><td>Machine Learning Onramp</td><td>MathWorks</td><td><img src="https://img.shields.io/badge/Sep%202024-16a34a?style=flat-square"/></td></tr>
-<tr><td>🔐</td><td>Cybersecurity & Ethical Hacking</td><td>Coincent.ai</td><td><img src="https://img.shields.io/badge/2024-dc2626?style=flat-square"/></td></tr>
-<tr><td>🏆</td><td><b>Top 25 — Smart India Hackathon 2024</b></td><td>Govt of India</td><td><img src="https://img.shields.io/badge/Sep%202024-c026d3?style=flat-square"/></td></tr>
-<tr><td>🎯</td><td>BITS Pilani Hyderabad Hackathon</td><td>BITS Pilani</td><td><img src="https://img.shields.io/badge/Mar%202025-0891b2?style=flat-square"/></td></tr>
+<tr><td>🔶</td><td>Oracle Cloud AI Foundations Associate</td><td>Oracle</td><td><img src="https://img.shields.io/badge/Mar_2026-00f5ff?style=flat-square&logoColor=black"/></td></tr>
+<tr><td>🤖</td><td>Introduction to ML</td><td>IIT KGP — NPTEL</td><td><img src="https://img.shields.io/badge/2025-ff006e?style=flat-square"/></td></tr>
+<tr><td>🧠</td><td>Introduction to Modern AI</td><td>Cisco</td><td><img src="https://img.shields.io/badge/May_2025-ff006e?style=flat-square"/></td></tr>
+<tr><td>💬</td><td>NLP Fundamentals</td><td>Infosys</td><td><img src="https://img.shields.io/badge/Apr_2025-00f5ff?style=flat-square&logoColor=black"/></td></tr>
+<tr><td>📊</td><td>Introduction to Data Science</td><td>Cisco</td><td><img src="https://img.shields.io/badge/May_2025-b5ff00?style=flat-square&logoColor=black"/></td></tr>
+<tr><td>✨</td><td>Generative AI</td><td>GUVI — IITM</td><td><img src="https://img.shields.io/badge/Oct_2024-b5ff00?style=flat-square&logoColor=black"/></td></tr>
+<tr><td>⚛️</td><td>React.js Certification</td><td>Infosys</td><td><img src="https://img.shields.io/badge/Aug_2024-00f5ff?style=flat-square&logoColor=black"/></td></tr>
+<tr><td>📐</td><td>Machine Learning Onramp</td><td>MathWorks</td><td><img src="https://img.shields.io/badge/Sep_2024-ff006e?style=flat-square"/></td></tr>
+<tr><td>🔐</td><td>Cybersecurity & Ethical Hacking</td><td>Coincent.ai</td><td><img src="https://img.shields.io/badge/2024-ff006e?style=flat-square"/></td></tr>
+<tr><td>🏆</td><td><b>Top 25 — Smart India Hackathon 2024</b></td><td>Govt of India</td><td><img src="https://img.shields.io/badge/Sep_2024-b5ff00?style=flat-square&logoColor=black"/></td></tr>
+<tr><td>🎯</td><td>BITS Pilani Hyderabad Hackathon</td><td>BITS Pilani</td><td><img src="https://img.shields.io/badge/Mar_2025-00f5ff?style=flat-square&logoColor=black"/></td></tr>
 </table>
 
 </div>
 
 <br/>
-
-<!-- ░░ DIVIDER ░░ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=rect&color=0:2e0040,40:c026d3,80:f0abfc,100:2e0040&height=4"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:fdf4ff,40:e879f9,80:d946ef,100:fdf4ff&height=4"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2e0040,40:c026d3,80:f0abfc,100:2e0040&height=4" width="100%"/>
-</picture>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff006e,33:00f5ff,66:b5ff00,100:ff006e&height=4" width="100%"/>
 <br/>
 
-<!-- ╔═══════════════════════╗ -->
-<!--   ✦ LET'S BUILD TOGETHER -->
-<!-- ╚═══════════════════════╝ -->
+<!-- ╔══════════════════════════╗ -->
+<!--     LET'S BUILD TOGETHER    -->
+<!-- ╚══════════════════════════╝ -->
 
-## 🤝 Let's Build Something
+## `[ LET'S BUILD SOMETHING ]`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=💼+Open+for+Internships+%26+Freelance;🤝+Let%27s+collaborate+on+something+amazing!;📧+Drop+me+a+mail+anytime!;⚡+Always+building+·+always+shipping" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1000&color=00F5FF&center=true&vCenter=true&width=680&lines=💼+Open+for+Internships+%26+Freelance;🤝+Let%27s+collaborate+on+something+real;📧+Drop+a+mail+—+always+open;⚡+Always+building+·+always+learning" />
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20madhumitha--venkatesan.onrender.com-c026d3?style=for-the-badge)](https://madhumitha-venkatesan.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/◈_madhumitha--venkatesan.onrender.com-00f5ff?style=for-the-badge&logoColor=black&labelColor=003344)](https://madhumitha-venkatesan.onrender.com/)
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhumithavenkatesan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhumithavenkatesan)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhumitha0511)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-ff006e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhumitha0511)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-madhumitha0511@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhumitha0511@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Say_Hi-b5ff00?style=for-the-badge&logo=gmail&logoColor=black)](mailto:madhumitha0511@gmail.com)
 
 <br/><br/>
 
@@ -531,19 +504,21 @@
 
 <br/><br/>
 
-> *✦ "Code is not just syntax — it's a story you tell the world." ✦*
+> **`// "Code is not just syntax — it's a story you tell the world."`**
 
 <br/>
 
 </div>
 
-<!-- ░░░░░░░░░░░░  F O O T E R  ░░░░░░░░░░░░ -->
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   FOOTER — egg dome, mirrors slice header   -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=egg&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=180&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=26&fontColor=f0abfc&fontAlignY=62&animation=fadeIn"/>
+    srcset="https://capsule-render.vercel.app/api?type=egg&color=0:0d0d0d,40:0d1b2a,70:0a2540,100:000000&height=180&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=26&fontColor=00f5ff&fontAlignY=68&animation=fadeIn"/>
   <source media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=egg&color=0:fdf4ff,30:fae8ff,60:e9d5ff,100:fdf4ff&height=180&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=26&fontColor=581c87&fontAlignY=62&animation=fadeIn"/>
+    srcset="https://capsule-render.vercel.app/api?type=egg&color=0:e0f7ff,40:ccf2ff,70:99e6ff,100:e0f7ff&height=180&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=26&fontColor=003d5c&fontAlignY=68&animation=fadeIn"/>
   <img width="100%"
-    src="https://capsule-render.vercel.app/api?type=egg&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=180&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=26&fontColor=f0abfc&fontAlignY=62&animation=fadeIn"/>
+    src="https://capsule-render.vercel.app/api?type=egg&color=0:0d0d0d,40:0d1b2a,70:0a2540,100:000000&height=180&section=footer&text=Thanks%20for%20visiting!%20⚡&fontSize=26&fontColor=00f5ff&fontAlignY=68&animation=fadeIn"/>
 </picture>
