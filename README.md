@@ -259,11 +259,6 @@ Secure event webapp:
 
 <!-- ░░░ QUOTE + FOOTER ░░░ --> <div align="center">  <br/>
 "I build things that actually work."
-<br/> 
-<br/>
 
-<br/>
-   
-<br/><br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:c084fc&height=120&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=18&fontColor=ffffff&fontAlignY=72"/> </div>
 
